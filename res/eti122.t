@@ -1,117 +1,96 @@
 z|0
-zag|31
-zaire|60
-zaire|101
-zany|135
-zany|147
-zap!|162
-zeal|172
-zealot|201
-zebec|227
-zebra|261
-zebra crossing|272
-zebu|286
-zeds|314
-zen|324
-zenith|348
-zephyr|362
-zephyrus|376
-zero|397
-zero|422
-zero|467
-zero|482
-zero|495
-zero gravity|517
-zero hour|544
-zero in|561
-zero in on|580
-zero in on|600
-zero in on|625
-zero-rated goods|645
-zest|680
-zeta|697
-zeus|721
-zift|766
-zig|815
-zigzag|858
-zigzag|878
-zigzag|897
-zigzag|911
-zilch|940
-zillion|958
-zimbabwe|984
-zimbabwean|1003
-zinc|1019
-zinc oxide|1056
-zing|1097
-zing|1136
-zing|1196
-zion|1262
-zion|1287
-zion|1298
-zip|1309
-zip along|1317
-zip code|1352
-zipless|1368
-zip on / up|1386
-zipper|1404
-zippy|1412
-zit|1449
-zither|1458
-zodiac|1484
-zombie|1498
-zombie|1527
-zombie|1570
-zombie|1682
-zonal|1738
-zonate|1757
-zonation|1782
-zone|1797
-zone|1809
-zone|1821
-zone|1887
-zone|1923
-zone for|1961
-zone off|1976
-zonk|2015
-zonk|2027
-zonked|2035
-zonule|2047
-zoo|2060
-zoogeography|2073
-zoography|2114
-zooid|2169
-zookeeper|2202
-zool.|2219
-zoological|2256
-zoological garden|2281
-zoologist|2317
-zoology|2334
-zoom|2348
-zoom|2389
-zoom|2428
-zoom|2464
-zoom across / along|2499
-zoom in|2527
-zoom in|2584
-zoom lens|2612
-zoom out|2664
-zoom out|2721
-zoom over / past|2757
-zoom up|2791
-zoom up|2848
-zoophobia|2877
-zoophyte|2895
-zoosemiotics|2923
-zootomy|2963
-zoroaster|2999
-zoroastrianism|3027
-zoster|3058
-zowie!|3072
-z's|3082
-zulu|3092
-zurich|3114
-zwitterion|3151
-zygote|3180
-zygotic|3228
-zymurgy|3251
+z|80|72
+zaire|303
+zambia|398
+zany|466
+zap|600
+zapf chancery|746
+zapf dingbats|884
+zeal|1226
+zealot|1403
+zealotry|1623
+zebec|1774
+zebra|1811
+zebra crossing|1886
+zebrass|1899
+zebrula|1935
+zebu|2029
+zedoary|2109
+zen|2136
+zenith|2248
+zephyr|2341
+zephyr cloth|2440
+zephyr worsted|2463
+zephyrean|2488
+zephyrus|2560
+zeppelin|2620
+zero|2680
+zero hour|2844
+zero|-|sum|2927
+zest|3028
+zestful|3176
+zeus|3309
+zibet|3404
+zigzag|3429
+zinc|3564
+zinc oxide|3649
+zinciferous|3727
+zincify|3772
+zion|3860
+zionism|4002
+zip|4134
+zip code|4689
+zip fastener|4729
+zippy|4736
+zircon|4793
+zirconium|4853
+zither|4916
+zmodem|5008
+zn|5229
+zo|5259
+zodiac|5332
+zoea|5414
+zonal|5510
+zonate|5583
+zonation|5705
+zonded|5829
+zone|5891
+zone bit|6059
+zoning|6540
+zoning commission|6595
+zonule|6646
+zoo|6783
+zoogeography|6868
+zoography|7003
+zooid|7169
+zool.|7281
+zoolite|7320
+zoological|7364
+zoological garden|7472
+zoologist|7519
+zoology|7576
+zoom|7622
+zoom lens|7849
+zoometer|7897
+zoometry|7963
+zoon|8080
+zoophile|8246
+zoophilist|8302
+zoophilous|8339
+zoophobia|8421
+zoophyte|8497
+zootomy|8627
+zoroaster|8753
+zoroastrian|8834
+zoroastrianism|8905
+zoster|9035
+zulu|9076
+zurich|9167
+zwitterion|9216
+zygodactyl|9330
+zygodactylus|9450
+zygosis|9570
+zygosperm|9716
+zygote|9749
+zym|9841
+zymogenic cells|9883
