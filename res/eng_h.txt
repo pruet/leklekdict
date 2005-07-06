@@ -1,0 +1,1625 @@
+h&h|0
+h&n|32
+h&p|52
+h-bomb|79
+h. f.c.|98
+h.c.f.|119
+h.e.|147
+h.h.|183
+h.m.|221
+h.n.|245
+h.r.h.|267
+h.s.|294
+h/o|311
+ha|328
+haa|450
+habanera|485
+habeas corpus|551
+haberdasher|612
+haberdashery|668
+habile|723
+habiliment|759
+habilitate|823
+habit|884
+habit-forming|974
+habitable|1015
+habitant|1052
+habitat|1088
+habitation|1202
+habitual|1315
+habituate|1408
+habitude|1500
+hacienda|1556
+hack|1583
+hack hammer|1818
+hack saw|1830
+hackamore|1847
+hackamore knot|1886
+hacker|1901
+hackie|2297
+hackle|2324
+hackly|2471
+hackman n.|2503
+hackney|2530
+hackney coach|2727
+hackneyed|2779
+hacksaw|2851
+had|2868
+haddock|2908
+hade|2937
+hades|3010
+hadhramaut|3078
+hadn't|3135
+hadst|3162
+haemat|3217
+haemat-|3248
+haematemesis|3262
+haematogenous|3279
+haematology|3318
+haematopoiesis|3347
+haematuria|3403
+haemoglobin|3458
+haemophilia|3534
+haemophiliac|3579
+haemorrage|3604
+haemorrhage|3705
+haemorrhoid|3754
+haemostat|3811
+hafnium|3841
+haft|3874
+hag|3906
+hagborn|4014
+hagfish|4054
+haggard|4123
+haggish|4272
+haggle|4317
+hagi|4447
+hagiocracy|4480
+hagiology|4582
+hagridden|4721
+hai|4748
+haick|4782
+haik|4819
+hail|4856
+hailstone|5111
+hain't|5133
+hair|5163
+hair follicle|5220
+hair net|5226
+hair oil|5239
+hair shirt|5252
+hair space|5265
+hair trigger|5384
+hair's breadth|5422
+hair's-breadth|5452
+hair-clippers|5546
+hair-raising|5561
+hairbrained|5614
+hairbreadth|5663
+hairbrush|5693
+haircloth|5703
+haircut|5718
+hairdo|5784
+hairdresser|5856
+hairdressing|5906
+hairline|5992
+hairpiece|6080
+hairpin|6095
+hairspray|6170
+hairy|6199
+haiti|6310
+haitian|6354
+haji|6423
+hajj|6454
+hajji|6580
+hakenkreuz|6670
+hakim|6707
+halakah|6781
+halation|6853
+halberd|6932
+halberdier|6953
+halcyon|7010
+hale|7077
+half|7212
+half armor|7432
+half armour|7464
+half binding|7496
+half brother|7520
+half buck|7549
+half calf|7562
+half cock|7586
+half deck|7850
+half hitch|7877
+half measure|7902
+half morocco|7921
+half mourning|7945
+half nelson|7961
+half note|7978
+half sister|8009
+half time|8060
+half-and|8121
+half-assed|8280
+half-baked|8337
+half-blood|8417
+half-bound|8497
+half-breadth plan|8521
+half-bred|8545
+half-breed|8575
+half-caste|8645
+half-duplex|8712
+half-life|8893
+half-mast|9010
+half-peck|9072
+half-quire|9098
+half-rod|9123
+half-slacks|9202
+halfback|9221
+halftone|9264
+halfway|9385
+halfway house|9474
+halibut|9547
+halide|9568
+halidom|9617
+halitosis|9652
+halitus|9678
+hall|9725
+hall of fame|9834
+halley's comet|9882
+hallmark|9930
+hallo|10022
+halloa|10134
+halloo|10168
+hallow|10195
+hallowed|10262
+halloween|10368
+hallowmas|10457
+hallstand|10546
+hallucination|10566
+hallucinogen|10643
+hallucinosis|10715
+halo|10751
+haloid|10875
+halt|10904
+halt instruction|11396
+halter|11635
+halvah|11680
+halve|11754
+halves|11806
+halyard|11906
+ham|11960
+hamadryad|12039
+hamal|12050
+hamartia|12100
+hamate|12128
+hamburger|12197
+hamlet|12247
+hammer and sickle|12289
+hammerhead|12350
+hammerlock|12368
+hammertoe|12414
+hammock|12443
+hammurabi|12463
+hammurapi|12549
+hammy|12635
+hamper|12662
+hamster|12770
+hamstring|12808
+han't|12885
+hand|12919
+hand brake|12973
+hand drill|12981
+hand grenade|12990
+hand organ|13000
+hand truck|13011
+hand's-breadth|13018
+hand-knit|13057
+hand-me-down|13105
+hand-over|13126
+hand-pick|13148
+hand-to|13194
+hand-to-mouth|13232
+handbag|13270
+handbarrow|13304
+handbell|13350
+handbill|13373
+handbook n.|13383
+handbreadth|13403
+handcar|13447
+handcart|13480
+handclap|13512
+handclasp|13524
+handcraft|13543
+handcuff|13595
+handed|13636
+handedness|13687
+handfast|13757
+handful|13781
+handgrip|13813
+handgun|13827
+handheld|13872
+handicap|14048
+handicapped|14146
+handicapper|14212
+handicraft|14276
+handicraftsman|14354
+handily|14399
+handiness|14469
+handiwork|14517
+handkerchief|14563
+handle|14628
+handler|14750
+handles|14813
+handling|15325
+handloom|15418
+handmade|15441
+handout|15475
+hands-down|15514
+hands-off|15578
+handsel|15604
+handsewn|15739
+handshake|15768
+handsome|15784
+handspring|15911
+handwork|15977
+handwoven|16009
+handwrite|16060
+handwriting|16090
+handy|16157
+handyman|16224
+hang|16277
+hang up|16492
+hang-up|16524
+hangar|16556
+hangdog|16632
+hanger|16688
+hanger-on|16722
+hangfire|16778
+hanging|16804
+hangman|16902
+hangman's knot|16925
+hangout|16948
+hangover|16988
+hank|17015
+hanker|17132
+hankering|17197
+hankie|17262
+hanky|17286
+hanky-panky|17310
+hannibal|17388
+hanuman|17445
+hap|17466
+haphazard|17530
+hapless|17659
+haplo-|17746
+haploid|17761
+haplology|17818
+haplopia|17854
+haplosis|17884
+haply|17923
+happen|17951
+happening|18031
+happenstance|18082
+happily|18103
+happiness|18148
+happy|18193
+hara-kiri|18231
+harangue|18298
+harass|18385
+harbinger|18483
+harbor|18642
+harbour|18735
+hard|18828
+hard copy|18989
+hard core|19281
+hard disk|19356
+hard drug|19775
+hard knocks|19790
+hard labor|19814
+hard labour|19864
+hard lock|19914
+hard palate|20064
+hard rubber|20105
+hard sauce|20136
+hard sell|20158
+hard space|20195
+hard-and-fast|20658
+hard-bitten|20715
+hard-boil|20768
+hard-core|20785
+hard-line|20845
+hard-liner|20909
+hard-nosed|20948
+hard-on|20967
+hard-pressed|20990
+hard-pushed|21042
+hard-run|21094
+hard-set|21146
+hard-shell|21215
+hard-spun|21313
+hardback|21341
+hardball|21356
+hardboard|21370
+hardbound|21380
+harden|21404
+hardened|21542
+hardhead|21606
+hardihood|21634
+hardiness|21731
+hardlines|21795
+hardly|21824
+hardness|21899
+hardpan|21966
+hardscrabble|21987
+hardship|22024
+hardtack|22096
+hardtop|22148
+hardware|22200
+hardwood|22611
+hardy|22664
+hare|22753
+hare and hounds|22774
+hare krishna|22794
+harebrained|22857
+harelip|22923
+harem|22968
+hari-kari|23053
+haricot|23081
+hark|23114
+harken|23164
+harlequin|23244
+harlequinade|23385
+harlot|23437
+harlotry|23470
+harm|23551
+harmation|23706
+harmful|23757
+harmless|23836
+harmonic|23921
+harmonic mean|24036
+harmonica|24101
+harmonics|24160
+harmonious|24216
+harmonise|24322
+harmonist|24449
+harmonistic|24493
+harmonium|24537
+harmonize|24601
+harmony|24728
+harmotome|24820
+harness|24841
+harness horse|24928
+harness race|24954
+harp|24970
+harpist|25033
+harpoon|25051
+harpsichord|25102
+harquebus|25161
+harquebusier|25229
+harridan|25266
+harrier|25288
+harrow|25389
+harrumph|25518
+harry|25552
+harsh|25615
+harshen|25719
+hart|25811
+hartal|25861
+harte cuisine|25900
+hartebeest|25932
+hartshorn|25993
+harumscarum adj|26030
+harvard graphics|26093
+harvest|26241
+harvest home|26410
+harvest moon|26445
+harvester|26517
+harvestman|26598
+has|26646
+has-been|26686
+hasenpfeffer|26781
+hash|26814
+hash house|26921
+hashhead|26936
+hashing|26950
+hashish|27183
+hasn't|27226
+hasp|27246
+hassenpfeffer|27306
+hassle|27339
+hast|27422
+hastate|27461
+haste|27490
+hasten|27627
+hasty|27707
+hat|27827
+hatable|27856
+hatale|27885
+hatch|27913
+hatchel|28092
+hatchery|28113
+hatchet|28148
+hatching|28252
+hatchment|28265
+hatchway|28324
+hate|28382
+hateable|28466
+hateful|28495
+hatemonger|28577
+hath|28639
+hatpin|28672
+hatrack|28723
+hatred|28738
+hatter|28776
+hauberk|28791
+haugh|28815
+haugty|28861
+haul|28945
+haulage|29066
+haulm|29127
+haunch|29158
+haunt|29228
+haunted|29321
+haunting|29356
+hausfrau|29465
+haut monde|29516
+haute couture|29543
+hautrue|29573
+hav|29621
+havana|29645
+have|29706
+have come out of the ark|29916
+havelock|29947
+haven|29979
+haven't|30059
+haver|30081
+haversack|30116
+haversian canal|30149
+havoc|30190
+haw|30289
+hawaii|30462
+hawaiian|30491
+hawfinch|30565
+hawk|30593
+hawk-eyed|30721
+hawker|30754
+hawkish|30826
+hawkshaw|30863
+hawse|30873
+hawsehole|30932
+hawsepipe|30958
+hawser|31011
+hawser bend|31070
+hay|31095
+hay fever|31139
+hayburner|31158
+haycock|31165
+hayes compatiblity|31191
+hayloft|31298
+haymow|31335
+hayrack|31387
+hayrick|31432
+hayseed|31454
+haystack|31490
+haywire|31505
+hazard|31563
+hazardous|31771
+haze|31878
+hazel|31981
+hazy|32064
+hb|32173
+hbag|32190
+hbcag|32216
+hbig|32247
+hbsag|32280
+hbv|32314
+hcg|32359
+hcp|32394
+hct|32423
+hd|32465
+hda|32874
+hdl|32901
+he|32932
+he'd|32991
+he'll|33019
+he-man|33048
+head|33107
+head crash|33370
+head gate|33528
+head shrinker|33538
+head-on|33561
+headchair|33622
+headdress|33650
+header|33682
+headfirst|33735
+headgear|33785
+headhunt|33844
+heading|33904
+headland|34009
+headless|34025
+headlight|34092
+headline|34142
+headliner|34223
+headlong|34255
+headman|34371
+headmaster|34437
+headmistress|34495
+headmost|34551
+headpage|34583
+headphone|34606
+headpiece|34620
+headpin|34751
+headquarter|34795
+headquarters|34834
+headrest|34879
+headroom|34894
+heads|34948
+heads-up|34977
+headset|35021
+headsheet|35047
+headship|35073
+headsman|35109
+headspring|35158
+headstall|35218
+headstand|35255
+headstone|35270
+headstream|35308
+headstrong|35341
+headwaiter|35422
+headwaters|35458
+headway|35473
+headwind|35581
+headwork|35604
+heady|35641
+heal|35736
+health|35813
+health education|35874
+healthful|35883
+healthy|35977
+heap|36095
+hear|36222
+hearing|36365
+hearken|36448
+hearsay|36508
+hearse|36573
+heart|36650
+heart block|36839
+heart burn|36888
+heart failure|36958
+heart murmur|36967
+heart rate|37003
+heart-to|37106
+heart-whole|37138
+heartache|37219
+heartattack|37304
+heartbeat|37313
+heartbreaking|37332
+heartbroken|37394
+heartburn|37457
+hearted|37532
+hearten|37611
+heartfelt|37679
+hearth|37734
+hearthside|37814
+heartily|37825
+heartland|37949
+heartless|38042
+heartrending|38154
+hearts and flowers|38202
+heartsease|38231
+heartsick|38264
+heartsome|38350
+heartsore|38386
+heartstricken|38414
+heartstrings|38495
+heartthrob|38570
+heartwarming|38611
+heartwood|38637
+hearty|38655
+heat|38869
+heated|38969
+heater|39080
+heath|39112
+heath bird|39155
+heath cock|39170
+heathen|39188
+heather|39402
+heatstroke|39458
+heaume|39513
+heave|39554
+heave away!|39779
+heaveho|39805
+heaven|39847
+heaven-sent|40035
+heavenly|40092
+heavenly city|40189
+heavenly-minded|40205
+heavenward|40232
+heavenwards|40267
+heaver|40284
+heavily|40320
+heaviness|40369
+heavy|40433
+heavy- footed|40556
+heavy-duty|40602
+heavy-laden|40613
+heavyset|40680
+heavyweight|40718
+hebdomad|40874
+hebdomadal|40901
+hebetate|40929
+hebetic|41033
+hebetude|41071
+hebraic|41138
+hebrew|41254
+hebrew calender|41314
+hebrews|41332
+hecate|41381
+hecatomb|41442
+heckle|41479
+hectare|41599
+hectic|41665
+hecto-|41812
+hectogram|41856
+hectograph|41919
+hectometer|42021
+hectometre|42110
+hector|42199
+hedge|42266
+hedge sparrow|42458
+hedgehog|42471
+hedgehop|42491
+hedgerow|42539
+hedonic|42572
+hedonism|42658
+heebie-jeebies|42743
+heed|42774
+heedless|42871
+heehaw|42974
+heel|43026
+heeled|43151
+heeler|43198
+heelpiece|43226
+heelpost|43247
+heent|43257
+heft|43290
+hefty|43354
+hegemony|43467
+hegumen|43581
+heifer|43595
+heigh|43657
+height|43682
+heighten|43724
+heighth|43874
+heinie|43893
+heinous|43914
+heir|44027
+heir apparent|44064
+heir at law|44104
+heir presumptive|44145
+heirdom|44170
+heiress|44211
+heirloom|44243
+heirship|44268
+heist|44326
+hekate|44386
+hekto-|44447
+hektogram|44461
+held|44486
+helen|44524
+heli|44599
+heliac|44624
+heliacal|44701
+helianthus|44778
+heliborne|44820
+helic|44865
+helical|44885
+helicoid|44954
+helicoidal|44984
+helicopter|45014
+helilift|45046
+heliograph|45095
+heliolatry|45197
+helioscope|45257
+heliotropism|45295
+helipad|45349
+heliport|45377
+helium|45405
+helix|45444
+hell|45562
+hell hole|45600
+helladic|45652
+hellas|45696
+hellbent|45714
+hellbox|45764
+hellcat|45810
+hellebore|45847
+hellene|45891
+hellenic|45912
+heller|45965
+hellfire|45999
+hellhole|46038
+hellhound|46090
+hellion|46127
+hellish|46159
+hello|46267
+helluva|46346
+helm|46414
+helm roof|46480
+helminth|46496
+helminthiasis|46533
+helmsman|46556
+helot|46600
+helotism|46617
+helotry|46647
+help|46675
+helper|46791
+helpful|46843
+helping|46899
+helpless|46965
+helpmate|47051
+helter-skelter|47102
+helve|47180
+helvetica|47232
+hem|47451
+hem-|47585
+hema-|47597
+hemat-|47609
+hematite|47623
+hemato-|47654
+hematocrit|47668
+hematogenous|47803
+hematology|47842
+hematopoiesis|47871
+hematuria|47927
+heme|47982
+hemi-|48024
+hemicycle|48038
+hemihedral|48075
+hemiplegia|48099
+hemisphere|48114
+hemistitch|48231
+hemlock|48298
+hemo-|48329
+hemoglobin|48341
+hemoglobinuria|48460
+hemolysin|48534
+hemolysis|48585
+hemophilia|48654
+hemoplegia|48748
+hemorrhage|48853
+hemorrhoid|48954
+hemostat|49014
+hemostatic|49044
+hemp|49109
+hemstitch|49150
+hen|49250
+hence|49288
+henceforth|49359
+henceforward|49396
+henchman n.|49414
+henna|49452
+hennery|49490
+henotheism|49514
+henpeck|49575
+henry|49614
+hent|49665
+hep|49709
+hepacat|49747
+heparin|49775
+hepatic|49818
+hepatica|49836
+hepatitis|49866
+hepato-|49882
+hepatomegaly|49894
+hephaestus|49900
+hepta-|49917
+heptachord|49928
+heptad|49957
+heptagon|49971
+heptahedron|49990
+heptamerous|50059
+heptameter|50084
+her|50132
+herald|50167
+heraldry|50282
+herb|50362
+herbaceous|50423
+herbal|50466
+herbalist|50509
+herbarium|50537
+herbicide|50607
+herbivore|50673
+herbivorous|50713
+herculean|50782
+hercules graphic card|50884
+herd|51131
+herder|51253
+herdman|51300
+herdsman|51362
+here|51425
+here's|51667
+hereabout|51691
+hereafter|51763
+hereat|51839
+hereby|51922
+hereditable|51990
+hereditament|52024
+hereditary|52096
+heredity|52210
+hereford|52263
+herein|52284
+hereinafter|52329
+hereinbefore|52346
+hereinto|52381
+hereof|52406
+hereon|52424
+heres|52455
+heresiarch|52501
+heresy|52528
+heretic|52611
+hereto|52690
+heretofore|52753
+hereunder|52770
+hereupon|52791
+herewith|52830
+heriot|52854
+heritage|52913
+heritor|52983
+herl|53011
+hermaphrodite|53039
+hermeneutics|53077
+hermes|53096
+hermetic|53138
+hermetical|53255
+hermit|53372
+hermit crab|53496
+hernia|53504
+hero|53563
+heroic|53612
+heroin|53683
+heroine|53705
+heroism|53734
+heron|53770
+heron'a-bill|53791
+heronry|53808
+herpes|53834
+herpes simplex|53901
+herpes zoster|53909
+herpetology|53935
+herring|54037
+herringbone|54076
+hers|54135
+herself|54161
+hertz|54191
+hesitancy|54252
+hesitant|54298
+hesitate|54341
+hesitation|54412
+hesperidin|54475
+hesperus|54524
+hetaera|54539
+hetero-|54583
+heterochromous|54606
+heterochronous|54630
+heteroclite|54652
+heterodox|54695
+heteroecism|54725
+heterogamete|54815
+heterogamous|54837
+heterogeneity|54875
+heterogeneous|54957
+heterogynous|55053
+heterologous|55139
+heterology|55205
+heteronomy|55239
+heteronym|55290
+heteroplasty|55344
+heterosexual|55410
+heterotaxis|55469
+heterozygote|55537
+heterozygous|55595
+hetman|55624
+heuristic|55657
+heuristics|55740
+hew|56014
+hewlett-packard|56063
+hewn|56191
+hex|56228
+hexachlorophene|56249
+hexad|56281
+hexadecimal|56358
+hexagon|56576
+hexagram|56599
+hexahedron|56681
+hexamerous|56725
+hexapod|56765
+hey|56773
+heyday|56838
+hf|56903
+hfs|56924
+hgb|57423
+hh|57440
+hhc|57460
+hi-fi|57483
+hia|57549
+hiatus|57592
+hibernaculum|57656
+hibernal|57705
+hibernate|57727
+hibernia|57815
+hibiscus|57834
+hiccough|57866
+hiccup|57924
+hickory|57982
+hid|58015
+hidden|58051
+hidden file|58133
+hide|58546
+hide-and-seek|58652
+hide-out|58696
+hideaway|58735
+hidebound|58791
+hideous|58845
+hideout|58964
+hiding|59003
+hidrosis|59082
+hie|59141
+hiemal|59168
+hierarch|59201
+hierarchic|59289
+hierarchical|59344
+hierarchical file system|59399
+hierarchy|59859
+hieratic|59933
+hiero-|59991
+hierocracy|60012
+hierodule|60073
+hieroglyphic|60092
+hierology|60188
+hierophant|60322
+higgle|60413
+higgledy-piggledy|60461
+higgler|60497
+high|60536
+high beam|60656
+high capacity|60677
+high church|60996
+high cockaloum|61066
+high command|61127
+high density|61169
+high end|61486
+high fidelity|61820
+high horse|61891
+high jinks|61921
+high jump|61985
+high level language|62028
+high mass|62587
+high memory|62675
+high memory area|62787
+high noon|62954
+high resolution|62978
+high school|63122
+high seas|63136
+high society|63145
+high speed printer|63158
+high tech|63299
+high time|63444
+high treason|63478
+high-class|63495
+high-flown|63520
+high-grade|63555
+high-keyed|63620
+high-low|63670
+high-minded|63689
+high-muck-a-muck|63746
+high-necked|63804
+high-octane|63820
+high-pitched|63878
+high-proof|63968
+high-rise|64007
+high-seasoned|64045
+high-sounding|64078
+high-speed|64102
+high-spirited|64123
+high-strung|64227
+high-tension|64256
+high-test|64300
+high-toned|64343
+high-wrought|64405
+highball|64458
+highbinder|64508
+highbred|64539
+highbrow|64575
+highfalutin|64648
+highjack|64699
+highland|64744
+highlander|64815
+highlight|64856
+highly|64975
+highly seasoned|65027
+highness|65060
+highroad|65174
+hight|65229
+hightail|65278
+highway|65316
+highwayman n.|65368
+hijack|65390
+hijinks|65461
+hike|65525
+hilarious|65661
+hilarity|65757
+hilding|65817
+hill|65891
+hillock|66028
+hillside|66075
+hilltop|66107
+hilly|66127
+hilt|66200
+hilum|66303
+him|66354
+himalayas|66376
+himself|66457
+hinayana|66492
+hind|66598
+hindbrain|66643
+hinder|66687
+hindermost|66767
+hindi|66797
+hindmost|66819
+hindoo|66874
+hindooism|66913
+hindrance|66940
+hindu|67020
+hinduism|67059
+hindustan|67105
+hinge|67152
+hinny|67270
+hint|67334
+hinterland|67441
+hinterlands|67518
+hip|67565
+hipbone|67728
+hipboot|67753
+hipped|67793
+hippie|67861
+hippo|67888
+hippo-|67925
+hippocrates|67937
+hippocratic oath|68020
+hippodrome|68096
+hippogriff|68135
+hippopotamus|68241
+hippy|68276
+hipster|68306
+hiragana|68344
+hircine|68383
+hire|68442
+hireling|68587
+hirple|68655
+hirsute|68719
+hirsutism|68801
+hirudin|68810
+hirudinoid|68845
+hirundine|68873
+his|68906
+hispania|68931
+hispanic|68952
+hispid|68997
+hiss|69026
+hist|69124
+histologist|69196
+histology|69225
+historian|69295
+historic|69329
+historical|69407
+historied|69500
+history|69535
+histrionics|69597
+hit|69642
+hit-and-run|69886
+hit-or-miss|69901
+hitch|69950
+hitchhike|70113
+hitching post|70206
+hither|70234
+hitherto|70390
+hitler|70451
+hiv|70481
+hive|70548
+hives|70638
+hla|70662
+hm|70693
+hma|70733
+hnv|70930
+ho|70951
+hoar|70973
+hoard|71038
+hoarding|71118
+hoarfrost|71160
+hoarhound|71219
+hoarse|71245
+hoarsen|71326
+hoary|71378
+hoary basin|71458
+hoatzin|71465
+hoax|71483
+hob|71562
+hobble|71664
+hobble skirt|71847
+hobbledehoy|71861
+hobby|71886
+hobbyist|71948
+hobgoblin|72002
+hobnob|72037
+hobo|72074
+hobson's choice|72132
+hock|72185
+hockey|72257
+hockshop|72280
+hocus|72303
+hocus-pocus|72341
+hod|72424
+hodden|72469
+hodgepodge|72499
+hodgkin's disease|72529
+hoe|72567
+hoebeit|72654
+hog|72716
+hog-wild|72813
+hogback|72850
+hoggish|72874
+hogtie|72961
+hogwash|73013
+hoi polloi|73081
+hoist|73127
+hoity|73250
+hokey|73327
+hokey-pokey|73358
+hokum|73395
+hold|73455
+hold-down|73690
+holden|73746
+holder|73781
+holdfast|73871
+holding|73909
+holdout|73991
+holdover|74032
+holdup|74063
+hole|74097
+holiday|74235
+holier-than-thou|74326
+holily|74350
+holiness|74420
+holism|74490
+holland|74527
+holler|74582
+hollerith card|74659
+hollerith code|75056
+hollerith, dr. herman|75332
+hollow|75918
+hollow-eyed|76137
+holly|76148
+hollyhock|76169
+hollywood|76217
+holm|76254
+holmium|76300
+holo-|76329
+holocaust|76355
+hologram|76472
+holster|76486
+holt|76516
+holus-bolus|76565
+holy|76629
+holy basil|76807
+holy city|76818
+holy communion|76863
+holy day|76908
+holy land|76958
+holy scripture|76984
+holy spirit|77001
+holy writ|77046
+holytide|77063
+homage|77087
+hombred|77143
+home|77244
+home computer|77415
+home key|77584
+home office|77847
+home page|77871
+home run|77974
+home secretary|78068
+home-coming|78100
+homeland|78187
+homeless|78225
+homely|78272
+homemade|78368
+homemaking|78412
+homeopathy|78458
+homeostasis|78613
+homer|78720
+homesick|78785
+homespun|78812
+homestead|78902
+homestretch|78966
+hometown|79008
+homeward|79071
+homewards|79104
+homeword|79116
+homey|79135
+homicidal|79230
+homicide|79308
+homing|79374
+hominid|79450
+hominine|79495
+hominoid|79525
+hominy|79544
+hommock|79567
+homo|79582
+homo sapiens|79665
+homo-|79724
+homogamous|79744
+homogeneous|79818
+homogeny|79913
+homograft|79968
+homoiothermal|80108
+homologate|80138
+homologous|80168
+homologue|80241
+homology|80371
+homosexaul|80448
+homosexuality|80481
+hone|80517
+honest|80616
+honestly|80770
+honesty|80869
+honey|80945
+honeybee|81027
+honeybunch|81035
+honeycomb|81054
+honeyed|81094
+honeymoon|81170
+honk|81297
+honkey|81354
+honkie|81382
+honky|81410
+honky-tonk|81438
+honor|81527
+honorable|81696
+honorarium|81851
+honorary|81880
+honoree|81946
+honour|82027
+honourable|82196
+honourarium|82351
+honourary|82380
+honouree|82446
+hooch|82527
+hood|82554
+hooded|82733
+hoodlum|82786
+hoodoo|82826
+hoodwink|82862
+hoof|82886
+hoof-and-mouth disease|82971
+hoofer|83002
+hook|83032
+hooka|83289
+hookah|83341
+hooked|83393
+hooker|83459
+hookworm|83578
+hooligan|83605
+hooly|83685
+hoop|83763
+hoopla|83868
+hoopoe|83948
+hoopster|83996
+hoot|84025
+hooves|84177
+hop|84203
+hope|84449
+hopeful|84558
+hopeless|84617
+hophead|84729
+hopped-up|84751
+hopper|84821
+hopping|84859
+hopscotch|84893
+horae|84909
+horal|84965
+horary|84996
+horde|85051
+horizon|85123
+horizontal|85189
+horizontal scroll bar|85257
+hormone|85588
+horn|85630
+hornbill|85780
+hornbook|85818
+horned|85843
+hornet|85910
+hornswoggle|85928
+horntail|85944
+horny|85960
+horologe|86056
+horologist|86088
+horology|86137
+horoscope|86207
+horrendous|86305
+horrent|86330
+horrible|86366
+horrid|86455
+horrific|86538
+horrify|86581
+horripilate|86628
+horror|86658
+horror-struck|86734
+hors'oeuvre|86785
+horse|86818
+horse fly|86867
+horse mussel|86899
+horse sense|86908
+horse trade|86920
+horsefeathers|86957
+horsefly|87021
+horselaugh|87053
+horseman|87093
+horseplay|87128
+horsepower|87160
+horseshit|87207
+horseshoe|87326
+horsewhip|87369
+horst|87424
+horsy|87465
+hortatory|87512
+horticulture|87549
+hortussiccus|87630
+hosanna|87654
+hose|87715
+hosier|87829
+hosiery|87891
+hospitable|87946
+hospital|88097
+hospitality|88123
+hospitalization|88222
+hospitalize|88298
+host|88342
+host computer|88492
+hostage|88773
+hostel|88832
+hosteler|88914
+hostelry|88987
+hostess|89023
+hostile|89213
+hostility|89351
+hostler|89492
+hot|89566
+hot dog|89797
+hot key|89836
+hot link|90064
+hot pursuit|90403
+hot spot|90466
+hot stuff|90730
+hot water|90789
+hotchpotch|90812
+hotel|90897
+hotel dieu|90916
+hotelier|90940
+hothead|90977
+hotline|91020
+hotshot|91109
+hotspur|91154
+houdah|91186
+hound|91202
+hound dog|91300
+hour|91326
+hour glass|91437
+hour hand|91472
+hourglass icon|91483
+hourly|91693
+house|91804
+house arrest|91998
+house of lords|92035
+house of representatives|92052
+houseboat n.|92067
+housebreaker|92078
+housecarl|92129
+household|92178
+householder|92302
+housekeep|92359
+housekeeping|92372
+housel|92404
+housemaid|92457
+housewarming|92485
+housewife|92504
+housewifery|92558
+housework|92606
+housing|92617
+hove|92746
+hovel|92777
+hover|92907
+hovercraft|93020
+how|93156
+how-to|93329
+howdah|93371
+howdie|93387
+howdy|93418
+howe'er|93449
+however|93483
+howitzer|93589
+howl|93689
+howling|93765
+hoyden|93854
+hp|94014
+hpi|94031
+hpl|94064
+hpn|94094
+hpo|94126
+hr|94171
+hrh|94199
+hrla|94226
+hs|94258
+hsv|94272
+ht|94299
+html|94318
+http|94477
+hub|94643
+hubbub|94731
+huddle|94782
+hue|95023
+hued|95169
+huff|95190
+huffish|95278
+hug|95391
+huge|95534
+hula|95606
+hulk|95710
+hulking|95797
+hulky|95857
+hull|95880
+hum|96040
+human|96080
+human nature|96183
+human oriented language|96207
+humane|96900
+humanise|97034
+humanism|97199
+humanist|97278
+humanitarian|97387
+humanity|97452
+humanize|97630
+humankind|97795
+humanly|97850
+humble|97909
+humblebee|98123
+humbug|98189
+humdrum|98344
+humerus|98496
+humid|98566
+humidify|98641
+humidity|98695
+humiliate|98762
+humiliation|98905
+humility|98957
+humming|99013
+hummingbird|99121
+hummock|99169
+humor|99248
+humoral|99423
+humorous|99468
+humour|99549
+humourous|99724
+hump|99805
+humpback|99984
+humpbacked|100029
+humus|100089
+hunch|100143
+hunchback|100290
+hunchbacked|100306
+hundred|100326
+hundredfold|100342
+hundredth|100399
+hundredweight|100497
+hung|100585
+hung-up|100626
+hunger|100699
+hungry|100786
+hunk|100913
+hunker|100954
+hunks|101046
+hunky|101103
+hunt|101131
+hunter|101254
+hunting|101332
+huntsman|101424
+hurcules|101498
+hurdle|101564
+hurl|101736
+hurling|101859
+hurly|101916
+hurrah|101973
+hurricane|102117
+hurricane lamp|102181
+hurried|102203
+hurry|102298
+hurry-scurry n.|102434
+hurry-skurry n.|102483
+hurt|102518
+hurtful|102693
+hurtle|102826
+husband|102932
+husbandman|103056
+husbandry|103098
+hush|103224
+hush money|103403
+husk|103428
+husky|103491
+hustle|103631
+hustler|103828
+hx|103887
+hybrid|103901
+hybrid computer|103992
+hydrant|104236
+hydrate|104304
+hydraulic|104402
+hydraulics|104533
+hydro|104619
+hydrocortisone|104740
+hydrofoil|104760
+hydrogen|104819
+hydrogen bomb|104851
+hydrophobia|104866
+hydroplane|104953
+hydroscope|105062
+hydroxide|105105
+hyena|105133
+hygiene|105253
+hygienics|105335
+hygro-|105367
+hygrometer|105393
+hygrometric|105440
+hygrometry|105477
+hying|105518
+hymen|105550
+hymn|105577
+hyper ventilation|105646
+hyperactive|105662
+hyperbola|105725
+hypercare|105783
+hyperglycemia|106117
+hyperhidrosis|106143
+hyperkalemia|106160
+hypermedia|106185
+hypernea|106410
+hypersensitive|106425
+hypertension|106516
+hypertensive|106563
+hypertext|106617
+hyperthyrodism|107063
+hyperuricemia|107413
+hyphen|107436
+hypnosis|107526
+hypnotic|107552
+hypnotise|107634
+hypnotist|107765
+hypnotize|107793
+hypo-|107924
+hypocrisy|107941
+hypocrite|108014
+hypodermic|108092
+hypoesthesia|108244
+hypoglassal nerve|108278
+hypoglycemia|108402
+hypokalemia|108425
+hypotension|108451
+hypothesis|108498
+hypothesise|108570
+hypothesize|108633
+hypothetical|108696
+hypothyrodism|108764
+hypoxemia|108838
+hysteria|108859
+hysteric|108940
+hysterical|109054
+hz|109213
+hzv|109553

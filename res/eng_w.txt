@@ -1,0 +1,1178 @@
+w|0
+w/o|47
+wad|61
+wadable|153
+wadding|182
+waddle|231
+wade|337
+wader|528
+wafer|653
+waff|762
+waffle|823
+waft|914
+wag|1051
+wage|1173
+wager|1308
+wageworker|1435
+waggery|1525
+waggish|1583
+waggle|1688
+waggly|1778
+waggon|1812
+wagon|1953
+waif|2094
+wail|2227
+wain|2393
+wainscot|2451
+wainscoting|2517
+wainscotting|2575
+wainwright|2633
+waist|2663
+waistband|2713
+waistcloth|2750
+waistcoat|2826
+wait|2898
+waiter|3117
+waiting|3175
+waiting maid|3337
+waiting room|3365
+waiting woman|3395
+waitress|3423
+waiver|3454
+wake|3494
+wakeful|3690
+wakeless|3807
+waken|3843
+wakening|3968
+wale|4032
+walk|4113
+walk-down|4314
+walk-in|4345
+walk-on|4454
+walkathon|4496
+walkaway|4548
+walker|4624
+walkie-talkie|4720
+walking|4818
+walking beam|4877
+walking stick|4914
+walkout|4932
+walkover|4990
+wall|5062
+wall street|5208
+wallaby|5276
+wallboard|5305
+wallcovering|5337
+wallet|5390
+walleyed|5503
+wallop|5532
+wallow|5675
+wallpaper|5839
+wally|5897
+walnut|5930
+walrus|6000
+waltz|6096
+wan|6165
+wand|6813
+wander|6890
+wandering|7050
+wane|7216
+want|7379
+want ad|7598
+want list|7616
+wanting|7639
+wanton|7714
+wany|7880
+war|7948
+war baby|8062
+war cry|8085
+war dance|8160
+war game|8182
+war god|8201
+war lord|8222
+war nose|8277
+war paint|8321
+war whoop|8377
+war zone|8400
+warble|8437
+warbler|8526
+ward|8589
+warded|8770
+warden|8808
+warder|8913
+wardress|8998
+wardrobe|9042
+wardrobe dealer|9115
+wardrobe trunk|9143
+wardroom|9168
+wardship|9275
+ware|9332
+warehouse|9501
+warfare|9582
+warhead|9655
+warily|9685
+wariness|9735
+warlike|9809
+warm|9876
+warm boot|10087
+warm start|10653
+warm-blooded|11225
+warm-hearted|11346
+warmonger|11495
+warmongering|11542
+warmth|11593
+warn|11661
+warp|11743
+warpath|11920
+warplane|12045
+warpwise|12073
+warrant|12118
+warrant of arrest|12374
+warrant officer|12385
+warrant officer 1st class|12395
+warrant officer 2nd class|12408
+warrant officer 3rd class|12420
+warrantable|12433
+warrantee|12558
+warranter|12606
+warrantor|12659
+warranty|12712
+warren|12839
+warring|12903
+warrior|12964
+warsaw|13060
+warship|13097
+wart|13118
+wart hog|13183
+wartime|13229
+warty|13279
+wary|13315
+wash|13392
+wash goods|13659
+wash-and|13703
+wash-basin|13816
+wash-up|13844
+washable|13882
+washboard|13958
+washbottle|14022
+washbowl|14047
+washcloth|14074
+washed-out|14136
+washed-up|14254
+washer|14326
+washer-drier|14403
+washerman|14468
+washerwoman|14553
+washing|14628
+washing leather|14749
+washing machine|14762
+washing powder|14779
+washing soda|14791
+washout|14826
+washrag|14896
+washroom|14940
+washwoman|14995
+washy|15039
+wasn't|15110
+wasp|15135
+waspish|15153
+waspy|15259
+wast|15349
+wastage|15394
+waste|15459
+waste product|15678
+wastebasket|15689
+wasteful|15755
+wasteland|15902
+wasteness|16001
+wastepaper|16076
+wastepipe|16119
+waster|16147
+wasting|16225
+wastrel|16338
+watch|16465
+watch and ward|16692
+watch fire|16749
+watchband|16795
+watchdog|16824
+watcher|16889
+watchful|16921
+watchmaker|17036
+watchman|17102
+watchout|17181
+watchtower|17245
+watchword|17283
+water|17347
+water buffalo|17603
+water closet|17611
+water cooler|17674
+water fowl|17710
+water gage|17720
+water gate|17763
+water gauge|17792
+water glass|17835
+water hyacinth|17872
+water lettuce|17884
+water lily|17891
+water main|17908
+water meter|17932
+water power|17947
+water proof|17987
+water ski|18106
+water wheel|18127
+water wings|18148
+water witch|18200
+water witching|18268
+water-cool|18326
+water-fast|18361
+water-ski|18423
+water-softener|18473
+water-soluble|18537
+watercolor|18603
+watercolour|18739
+watercontrol|18875
+watercourse|18907
+watercraft|18969
+watercycle|19086
+waterfall|19113
+waterfront|19143
+wateriness|19223
+watering pot|19275
+waterish|19338
+waterline|19431
+waterlocked|19490
+waterlocks|19524
+waterlog|19552
+waterlogging|19622
+waterman|19656
+watermark|19737
+watermelon|19848
+waterpower|19874
+waterproofing|19914
+watershed|19963
+waterspout|20032
+watertight|20115
+waterway|20232
+waterworks|20256
+waterworn|20319
+watery|20383
+watt|20495
+watt-hour|20654
+wattage|20744
+wattle|20794
+wattmeter|20946
+waught|20984
+waul|21044
+wave|21092
+wave front|21339
+waved|21355
+waveform|21403
+wavelength|21421
+waver|21455
+wavy|21628
+wax|21772
+wax bean|22011
+waxwing|22064
+waxwork|22104
+waxworks|22159
+waxy|22235
+way|22312
+way station|22561
+wayfarer|22596
+wayfaring|22659
+waygoing|22734
+waylay|22827
+wayleave|22925
+ways and means|22952
+wayside|22977
+waytrain|23033
+wayward|23092
+wayworn|23245
+wbc|23286
+we|23310
+we'd|23360
+we'll|23398
+we're|23427
+we've|23449
+weak|23463
+weak-eyed|23652
+weak-minded|23679
+weaken|23789
+weaker sex|23902
+weakhearted|23918
+weakling|24022
+weakness|24137
+weal|24292
+weald|24391
+wealth|24452
+wealthy|24506
+wean|24588
+weapon|24694
+weaponry|24754
+wear|24811
+wear and tear|25052
+wearability|25128
+wearable|25184
+weariful|25230
+weariless|25340
+wearing|25454
+wearing apparel|25556
+wearisome|25583
+wearproof|25710
+weary|25764
+weasand|25955
+weasel|26022
+weasel word|26117
+weasel-faced|26186
+weather|26247
+weather station|26492
+weather stripping|26582
+weather vane|26616
+weather-beaten|26635
+weather-bound|26731
+weather-strip|26793
+weatherboard|26841
+weathercock|26948
+weatherglass|27037
+weatherly|27125
+weatherproof|27186
+weathertight|27273
+weatherworn|27330
+weave|27411
+weaver|27537
+web|27665
+web browser|28351
+web foot|28559
+web page|28587
+web site|28706
+web-toed|28801
+webbed|28857
+webby|28904
+webfoot|28961
+wed|29057
+wed.|29132
+wedded|29148
+wedding|29193
+wedge|29292
+wedgy|29449
+wedlock|29485
+wednesday|29560
+wednesdays|29581
+wee|29616
+weed|29696
+weeds|29854
+weedy|29877
+week|29960
+weekday|30030
+weekdays|30077
+weekend|30160
+weekender|30216
+weekends|30277
+weekly|30332
+ween|30397
+weep|30439
+weeper|30568
+weeping|30671
+weevil|30742
+weevily|30763
+weigh|30824
+weight|31067
+weighty|31258
+weir|31401
+weird|31439
+welch|31563
+welchman|31591
+welcome|31649
+weld|31813
+welfare|32022
+welfare work|32193
+well|32246
+well-advised|32503
+well-appointed|32547
+well-being|32576
+well-beloved|32691
+well-bred|32774
+well-chosen|32839
+well-conditioned|32886
+well-conducted|32964
+well-connected|33001
+well-content|33054
+well-defined|33094
+well-disposed|33174
+well-doing|33252
+well-done|33315
+well-dressed|33391
+well-earned|33419
+well-established|33478
+well-favored|33582
+well-favoured|33694
+well-fed|33806
+well-fixed|33868
+well-found|33937
+well-founded|34006
+well-groomed|34071
+well-grounded|34154
+well-heeled|34244
+well-informed|34279
+well-intentioned|34339
+well-judged|34410
+well-knit|34470
+well-known|34536
+well-looking|34597
+well-mannered|34649
+well-marked|34685
+well-meaning|34698
+well-met|34746
+well-nigh|34772
+well-off|34802
+well-paid|34878
+well-read|34924
+well-rounded|34969
+well-spoken|35081
+well-thought-of|35134
+well-timed|35189
+well-to-do|35256
+well-tried|35291
+well-trod|35330
+well-turned|35404
+wellborn|35479
+welldoer|35542
+wellhead|35584
+wellhole|35655
+wellhouse|35676
+wellspring|35717
+welsh|35794
+welsh terrier|35918
+welshman|35995
+welt|36054
+welter|36220
+welterweight|36405
+wench|36547
+went|36662
+wept|36719
+were|36758
+weren't|36786
+werewolf|36812
+wert|36886
+werwolf|36926
+weskit|37000
+west|37039
+west indies|37133
+wester|37220
+westerly|37310
+western|37401
+western hemisphere|37512
+westernise|37529
+westernize|37664
+westing|37799
+westminster|37830
+westminster abbey|37867
+westward|37921
+westwardly|37985
+wet|38028
+wet dream|38291
+wet fly|38333
+wet goods|38363
+wet nurse|38404
+wet pack|38413
+wet wash|38457
+wet-nurse|38506
+wetblanket|38576
+wether|38664
+wetting agent|38698
+wettish|38720
+whack|38763
+whacking|38934
+whale|38957
+whaler|39049
+whaling|39103
+whang|39142
+wharf|39228
+wharfage|39356
+wharfie|39433
+wharfinger|39461
+wharve|39512
+wharves|39553
+what|39583
+what you see is what you|39754
+what'd|40271
+what'll|40292
+what's|40320
+what've|40361
+whate'er|40384
+whatever|40408
+whatnot|40479
+whatsoe'er|40539
+whatsoever|40574
+wheal|40611
+wheaten|40700
+wheedle|40768
+wheel|40876
+wheel box|41121
+wheelbarrow|41133
+wheelbase|41212
+wheelchair|41259
+wheeled|41293
+wheeler|41330
+wheeler-dealer|41413
+wheelman|41528
+wheelsman|41609
+wheelwright|41713
+wheeze|41758
+whelk|41922
+whelp|41955
+when|42052
+when's|42195
+whenas|42227
+whence|42252
+whencesoever|42305
+whenever|42344
+whensoever|42386
+where|42426
+where'd|42546
+where'ever|42570
+where'll|42603
+where're|42640
+where's|42694
+where've|42717
+whereabout|42742
+whereas|42853
+whereat|42933
+whereby|43005
+wherefore|43054
+wherefrom|43133
+wherein|43177
+whereinto|43257
+whereof|43289
+whereon|43348
+wheresoe'er|43422
+wheresoever|43449
+wherethrough|43510
+whereto|43563
+whereunto|43593
+whereupon|43614
+wherever|43672
+wherewith|43784
+wherewithal|43859
+whet|43939
+whether|44071
+whetstone|44182
+whew|44206
+whey|44268
+wheyface|44339
+which|44368
+whichever|44450
+whichsoever|44524
+whiff|44557
+whiffle|44646
+whig|44739
+while|44766
+whiles|44974
+whilom|45050
+whilst|45121
+whimper|45142
+whimsical|45253
+whimsied|45411
+whimsy|45486
+whine|45599
+whinny|45767
+whip|45839
+whipcord|46092
+whiplash|46140
+whipper|46170
+whipsaw|46217
+whipworm|46337
+whir|46365
+whirl|46516
+whirlpool|46757
+whirlwind|46791
+whirly|46974
+whisk|47031
+whisker|47213
+whiskey|47361
+whisky|47385
+whisper|47409
+whispery|47592
+whist|47678
+whistle|47792
+whistler|48044
+whistling|48140
+whit|48353
+white|48400
+white ant|48651
+white elephant|48673
+white gold|48719
+white goods|48751
+white heat|48856
+white hope|48902
+white house|48937
+white lie|49007
+white paper|49054
+white race|49113
+white slave|49165
+white wine|49231
+white-collar|49274
+white-handed|49349
+white-headed|49446
+white-hot|49519
+whited|49620
+whitehall|49685
+whitely|49712
+whiten|49735
+whiteness|49806
+whitening|49854
+whitesmith|49935
+whitewash|49959
+whither|50106
+whithersoever|50149
+whitish|50192
+whitlow|50258
+whitmonday|50351
+whitsun|50394
+whitsunday|50429
+whittle|50527
+whittling|50666
+whity|50756
+whiz|50775
+whiz-bang|50952
+whizz|51130
+who|51307
+who'd|51413
+who'll|51435
+who're|51466
+who's|51490
+whoa|51517
+whodunit|51558
+whodunnit|51602
+whoe'er|51646
+whoever|51671
+whole|51717
+whole blood|51841
+whole brother|51923
+whole meal|51956
+whole milk|52003
+whole note|52069
+whole number|52183
+whole sister|52221
+whole-length|52261
+wholehearted|52366
+wholesale|52478
+wholesome|52629
+wholly|52754
+whom|52799
+whomever|52838
+whomsoever|52875
+whoop|52919
+whoopee|53148
+whooping|53215
+whooping cough|53315
+whopper|53350
+whopping|53420
+whore|53486
+whoredom|53532
+whorehouse|53605
+whoreinaster|53645
+whoremonger|53706
+whorish|53767
+whorl|53892
+whorled|53968
+whose|54034
+whosesoever|54115
+whosever|54183
+whosoever|54230
+why|54273
+wick|54330
+wicked|54422
+wickedness|54542
+wicker|54631
+wickerwork|54728
+wicket|54784
+wicketkeeper|54937
+wide|55013
+wide area network|55167
+wide-awake|55657
+wide-eyed|55756
+wideangle|55784
+widely|55833
+widemouthed|55933
+widen|56011
+wideopen|56090
+widespread|56177
+widish|56236
+widow|56264
+width|56347
+widthwise|56376
+wield|56416
+wieldy|56530
+wife|56588
+wifehood|56734
+wifelike|56778
+wifely|56841
+wig|56921
+wigan|57022
+wiggle|57075
+wiggler|57210
+wigwag|57302
+wigwam|57372
+wild|57445
+wild man|57697
+wild west|57763
+wild-eyed|57851
+wildcards|57929
+wildcat|58591
+wilderness|58612
+wildlife|58685
+wildling|58720
+wildwood|58777
+wile|58808
+wilful|58943
+will|59035
+will power|59281
+will-call|59300
+will-o'-the|59379
+willable|59528
+willed|59580
+willful|59614
+willing|59705
+willless|59817
+willow|59886
+willowy|59953
+willy-nilly|60030
+wilt|60092
+wily|60279
+wimbledon|60375
+wimple|60485
+win|60693
+wince|60809
+winch|60904
+winchester|60997
+winchester disk|61069
+wind|61382
+wind chill|61632
+wind cone|61742
+wind egg|61780
+wind sock|61817
+wind-bag|61855
+wind-borne|61907
+wind-screen|61936
+windable|61982
+windbaggery|62014
+windbound|62083
+windbreak|62141
+windchest|62193
+winded|62272
+winder|62320
+windfall|62428
+winding|62529
+windlass|62740
+windless|62807
+windmill|62886
+window|62977
+window screen|63054
+window seat|63073
+windowpane|63161
+windows|63190
+windows new technology|64070
+windows nt|64338
+windowsash|64602
+windpipe|64630
+windshield|64693
+windstorm|64734
+windtight|64759
+windup|64794
+windward|64856
+windway|64966
+windy|64995
+wine|65098
+wine cellar|65287
+wineglass|65343
+winegrower|65384
+winery|65455
+wineshop|65522
+wing|65546
+wing collar|65699
+wing commander|65719
+wing compasses|65734
+wing shooting|65745
+wing tip|65779
+wingback|65790
+winged|65849
+winglet|65985
+wingman|66006
+wingmanship|66050
+wings|66090
+wingspread|66156
+wingstroke|66214
+wink|66241
+winker|66402
+winkle|66473
+winner|66569
+winning|66605
+winnow|66773
+winsome|66970
+winter|67079
+winterclad|67174
+wintergreen|67204
+wintergreen oil|67286
+wintertide|67326
+wintertime|67356
+wintery|67382
+wintry|67444
+winy|67553
+wipe|67586
+wiper|67762
+wirable|67860
+wire|67922
+wire agency|68161
+wire cloth|68181
+wire entanglement|68201
+wire printer|68220
+wire recorder|68659
+wire-cutter|68739
+wired|68770
+wiredancer|68885
+wiredrawn|68943
+wireless|69009
+wireless telegraph|69214
+wireless telephone|69229
+wireman|69246
+wirenetting|69284
+wirepuller|69311
+wiretap|69400
+wirework|69595
+wireworks|69665
+wiring|69739
+wis|69817
+wisdom|69847
+wisdom tooth|69937
+wise|70039
+wise guy|70201
+wisecrack|70254
+wish|70374
+wish bone|70540
+wishful|70616
+wishful thinking|70704
+wishing bone|70760
+wishy|70836
+wisp|70926
+wispy|71090
+wist|71195
+wistful|71237
+wit|71303
+witch|71439
+witch doctor|71590
+witchcraft|71611
+witchery|71722
+witching|71817
+with|71883
+withal|71981
+withdraw|72101
+withdrawal|72215
+withdrawn|72305
+withdrew|72419
+wither|72468
+withered|72667
+withering|72736
+withers|72886
+witherward|72977
+withhold|73044
+within|73164
+without|73201
+withoutdoors|73310
+withstand|73340
+witless|73412
+witling|73488
+witness|73515
+witness stand|73730
+witness-box|73748
+witted|73809
+witticism|73863
+witting|73941
+witty|74021
+wive|74143
+wives|74223
+wiz|74249
+wizard|74299
+wizardly|74517
+wizardry|74615
+wizen|74726
+wizened|74807
+woad|74886
+wobble|74951
+wobbly|75068
+woe|75169
+woebegone|75280
+woeful|75380
+woesome|75531
+wog|75554
+woke|75590
+woken|75623
+wold|75662
+wolf|75755
+wolfhound|75896
+wolfish|75945
+wolfram|76020
+wolframite|76055
+wolframium|76097
+wolves|76124
+woman|76151
+woman of the house|76257
+woman of the streets|76278
+woman of the world|76325
+woman suffrage|76359
+woman's power|76455
+woman's rights|76470
+womanhood|76486
+womankind|76527
+womanlike|76575
+womanly|76621
+womb|76721
+women|76789
+women's lib|76819
+womenfolk|76866
+won|76951
+won ton|77005
+won't|77091
+wonder|77121
+wonder drug|77341
+wonder-stricken|77391
+wonderful|77462
+wondering|77574
+wonderland|77649
+wonderment|77724
+wonderwork|77815
+wondrous|77864
+wonky|78004
+wont|78068
+wonted|78147
+woo|78257
+wood|78388
+wood coal|78549
+wood engraving|78577
+wood nymph|78647
+wood pewee|78660
+wood pulp|78695
+wood turning|78713
+woodborer|78795
+woodcraft|78839
+woodcraftsman|78912
+woodcut|78977
+woodcutter|79044
+wooded|79076
+wooden|79124
+wooden fibre|79261
+wooden gas|79279
+woodenhead|79290
+woodenheaded|79356
+woodland|79441
+woodman|79562
+woodnote|79621
+woodpaper|79708
+woodpecker|79749
+woodpile|79776
+woods|79797
+woodshed|79814
+woodsman|79845
+woodwork|79925
+woodworker|79954
+woodworking|79982
+woodworm|80037
+woody|80083
+woodyard|80191
+wooer|80216
+woof|80269
+woofer|80301
+wool|80335
+wool fat|80528
+wool grease|80562
+wool oil|80596
+woolen|80630
+wooler|80712
+woolfell|80762
+woolgathering|80832
+woolgrower|80934
+woollen|81039
+woolsack|81121
+woolshed|81177
+woolskin|81216
+wooly|81271
+word|81309
+word for honour|81541
+word processing|81584
+word processor|82042
+word wrap|82426
+word-hoard|82824
+wordbook|82856
+wording|82907
+wordless|82946
+wordy|83110
+wore|83256
+work|83292
+work area|83557
+work camp|83704
+work farm|83755
+work load|83834
+work of art|83879
+work-out|83908
+workable|83942
+workaday|84054
+workaday world|84162
+workaholic|84188
+workbag|84260
+workbench|84326
+workboat|84384
+workbook|84411
+workbox|84481
+workday|84551
+worked|84593
+worked-out|84687
+worked-up|84701
+worker|84767
+workfare|84888
+workfolk|84921
+workhouse|84972
+working|85053
+working day|85284
+working people|85297
+working-out|85320
+workingman|85382
+workman|85457
+workmanship|85506
+workout|85620
+worksheet|85693
+workshop|85913
+workstation|86005
+worktable|86573
+workwoman|86603
+world|86657
+world bank|86899
+world court|87020
+world health organization|87030
+world power|87105
+world series|87124
+world war|87195
+world wide web|87208
+world's fair|87683
+world's series|87822
+world-famous|87893
+world-old|87923
+worldling|87959
+worldly|88024
+worldly-minded|88147
+worm|88213
+worm disk|88449
+worm gear|88836
+worm-eaten|88890
+wormhole|88981
+wormy|89006
+worn|89116
+worn-out|89267
+worriment|89381
+worry|89446
+worrywart|89696
+worse|89784
+worsen|89865
+worsening|89939
+worser|89999
+worship|90028
+worshipful|90212
+worst|90351
+worsted|90575
+wort|90673
+worth|90724
+worthily|90956
+worthiness|91052
+worthy|91126
+wot|91306
+would|91358
+would-be|91515
+wouldn't|91587
+wouldst|91616
+wound|91683
+wounded|91891
+wove|91988
+wove paper|92026
+woven|92071
+wow|92106
+wrack|92264
+wraith|92372
+wrangle|92451
+wrangler|92544
+wrap|92603
+wrap-up|92788
+wrapper|92848
+wrapping|92953
+wrapping paper|93006
+wrapt|93022
+wrath|93060
+wrathful|93173
+wrathy|93279
+wreak|93387
+wreath|93495
+wreathe|93687
+wreck|93787
+wreckage|93952
+wrecker|94022
+wren|94106
+wrench|94159
+wrest|94343
+wrest pin|94438
+wrestle|94465
+wrestling|94572
+wrestling-match|94671
+wretch|94690
+wretched|94768
+wrick|94904
+wrier|94978
+wriest|95014
+wriggle|95058
+wriggler|95206
+wriggly|95299
+wright|95382
+wring|95416
+wringer|95487
+wrinkle|95592
+wrinkly|95727
+wrist|95760
+wrist pin|95796
+wrist watch|95824
+wristband|95840
+wristdrop|95870
+wristjoint|95897
+wristlet|95921
+wristlock|95997
+wristwatch|96072
+writ|96088
+writ of attachment|96194
+writ of order|96227
+write|96249
+write protect|96466
+write-down|96869
+write-in|96928
+write-off|97010
+write-up|97078
+writer|97190
+writhe|97269
+writhen|97378
+writing|97417
+written|97633
+wrong|97693
+wrong font|97929
+wrong-headed|97965
+wrongdoer|98049
+wrongdoing|98117
+wrongful|98193
+wrongheaded|98302
+wrongous|98386
+wrote|98457
+wroth|98493
+wrought|98519
+wrought iron|98625
+wrought-up|98702
+wrung|98761
+wry|98803
+wry-mouthed|98952
+wryneck|99007
+www|99131
+wysiwyg|99634
+wyvern|100146

@@ -1,0 +1,551 @@
+n|0
+n.b.|28
+nab|86
+nadir|121
+nag|171
+naga|239
+nail|254
+nail enamel|342
+nail file|351
+nail polish|377
+nailbrush|386
+nairobi|412
+naive|447
+naivete|542
+naked|606
+namable|727
+namby-pamby|771
+name|826
+name of the game|866
+nameable|888
+namely|932
+namesake|955
+nand|1015
+nanny|1214
+nanny goat|1243
+nano-|1254
+nanometer|1287
+nanosecond|1351
+nap|1422
+napalm|1523
+nape|1631
+naphthalene|1651
+napkin|1701
+napoleon bonaparte|1743
+nappy|1784
+narcissism|1810
+narcissus|1884
+narco-|1922
+narcosis|1955
+narcotic|1984
+narial|2095
+narrate|2135
+narration|2259
+narrative|2322
+narrow|2403
+nary|2524
+nasa|2563
+nasal|2614
+nascent|2683
+nasturtium|2785
+nasty|2830
+natal|2962
+natality|3009
+nation|3038
+national|3064
+national anthem|3140
+national guard|3152
+national park|3181
+national television stand|3204
+nationalise|3472
+nationalism|3612
+nationalist|3661
+nationalist china|3785
+nationality|3804
+nationalize|3832
+nationhood|3972
+nationwide|4001
+native|4031
+native-born|4187
+nativity|4252
+natty|4365
+natural|4422
+natural language processi|4453
+natural virtue|5074
+naturalise|5089
+naturalisze|5202
+nature|5315
+naturist|5404
+naught|5461
+naughty|5527
+nausea|5629
+nauseant|5703
+nauseate|5740
+nauseating|5792
+nauseous|5837
+nautical|5920
+nautical mile|5984
+nautilus|6016
+naval|6081
+nave|6146
+navel|6250
+navette|6291
+navicular|6324
+navigable|6397
+navigate|6510
+navigation|6581
+navigator|6612
+navy|6720
+navy yard|6754
+nay|6768
+nazi|6833
+nb|6941
+ne'er|6969
+ne-|7000
+neap|7026
+near|7069
+near-letter quality|7194
+near-term|7771
+nearby|7812
+nearly|7875
+nearsighted|7953
+neat|8028
+neaten|8116
+neb|8185
+nebula|8237
+nebulise|8349
+nebulize|8459
+nebulosity|8569
+nebulous|8623
+necessarily|8721
+necessary|8776
+necessitarian|8851
+necessitarianism|8917
+necessitate|8991
+necessity|9073
+neck|9205
+neckerchief|9295
+necking|9346
+necklace|9375
+necktie|9396
+neckwear|9414
+necromancy|9441
+necrophilia|9537
+necropolis|9640
+necropsy|9721
+necrosis|9749
+nectar|9822
+nee|9902
+need|9923
+needful|10118
+neediness|10195
+needle|10221
+needlepoint|10240
+needless|10268
+needlework|10332
+needn't|10389
+needs|10417
+needy|10448
+nefarious|10516
+negate|10597
+negation|10670
+negative|10706
+neglect|10841
+neglectful|10943
+negligence|11041
+negligent|11082
+negligible|11131
+negotiable|11218
+negotiant|11303
+negotiate|11332
+negotiation|11409
+negress|11454
+negro|11477
+negroid|11512
+neigh|11560
+neighborhood|11595
+neighboring|11744
+neighborly|11787
+neighbour|11873
+neighbouring|11974
+neighbourly|12017
+neighburhood|12103
+neighor|12252
+neither|12353
+nemato-|12418
+nematode|12442
+neo-|12469
+neon|12494
+neophyte|12530
+nepal|12575
+nepalese|12599
+nephew|12660
+nepho-|12681
+nephogram|12693
+nephograph|12735
+nephology|12769
+nephr-|12844
+nephritis|12855
+nephro-|12884
+neptune|12895
+nervation|12928
+nerve|12967
+nerve-racking|13148
+nervous|13227
+nest|13338
+nesting|13536
+nestle|13819
+net|13980
+net ton|14240
+netbios|14276
+netherlands|14521
+netting|14574
+nettle|14615
+nettlesome|14656
+netware|14735
+network|14805
+network adapter|15138
+network basic input / out|15299
+network hose|15542
+network operating system|15712
+neural|16075
+neural network|16122
+neuralgia|16782
+neuritis|16835
+neuro-|16902
+neurologist|16942
+neurology|16990
+neuron|17043
+neuropath|17100
+neuropathology|17134
+neuropathy|17217
+neuropsychosis|17275
+neurosis|17349
+neurosurgery|17419
+neurotic|17458
+neuter|17577
+neutral|17796
+neutralise|17953
+neutrality|18122
+neutralize|18153
+neutro-|18322
+neutron|18339
+neutrophil|18367
+neutrophils|18419
+never|18496
+nevermore|18534
+nevertheless|18565
+nevus|18666
+new|18735
+new testament|18805
+new world|18918
+new year|19009
+new year's|19044
+new year's day|19093
+new year's eve|19115
+new zealand|19139
+newbie|19189
+newborn|19244
+newfangled|19308
+newish|19408
+newline character|19435
+newly|19589
+newlywed|19639
+news|19670
+news release|19699
+news release n.=press rel|19726
+news room|19732
+newscast|19757
+newsletter|19808
+newsman|19837
+newsmonger|19925
+newspaper|20000
+newsprint|20055
+newsreel|20111
+newsstand|20138
+newsworthy|20186
+newsy|20238
+newt|20300
+next|20338
+next of kin|20496
+next-door|20523
+nexus|20578
+nib|20660
+nibble|20794
+nicad|21035
+nice|21232
+nicety|21376
+niche|21469
+nick|21551
+nickel|21699
+nickel cadmium|21802
+nickname|22022
+nicotine|22103
+niddering|22171
+nide|22236
+niece|22275
+nifty|22314
+nigeria|22347
+niggard|22376
+niggardly|22447
+nigger|22545
+niggling|22629
+nigh|22737
+night|22837
+night blindness|22962
+night club|23060
+night shift|23112
+night watch|23127
+nightclub|23159
+nightfall|23211
+nightgown|23249
+nightie|23304
+nightingale|23322
+nightlong|23380
+nightly|23414
+nightmare|23455
+nights|23495
+nighty|23532
+nigritude|23550
+nihil|23660
+nihilism|23688
+nil|23890
+nile|23929
+nill|23951
+nimble|23975
+nimbo-|24070
+nincompoop|24100
+nine|24122
+ninepins|24190
+nineteen|24276
+nineteenth|24303
+ninetieth|24350
+ninety|24397
+ninth|24474
+nip|24509
+nipple|24755
+nippon|24836
+nipponese|24884
+nippy|24956
+niruth|25030
+nirvana|25125
+niter|25191
+nitrate|25221
+nitric|25241
+nitrite|25275
+nitrogen|25321
+nitty-gritty|25347
+nitwit|25396
+nix|25429
+nlq|25527
+no|26134
+no.|26196
+noah|26224
+noas|26332
+nob|26367
+nobel|26396
+nobel prize|26464
+nobility|26532
+noble|26661
+nobleman|26814
+nobly|26873
+nobody|26986
+noct|27028
+noct-|27053
+noctunal enuresis|27069
+nocturnal|27090
+nocuous|27150
+nod|27209
+nodal|27333
+noddle|27418
+noddy|27460
+node|27513
+nodular|27612
+nodule|27666
+noel|27704
+noggin|27763
+noil|27827
+noise|27909
+noiseproof|27951
+noisome|27978
+noisy|28081
+nomad|28183
+nomadic|28278
+nomenclator|28328
+nomenclature|28358
+nominal|28402
+nominal wages|28471
+nominate|28487
+nomination|28612
+nominative|28687
+nominee|28783
+non executable statement|28834
+non system disk|29462
+non-|30017
+nonaligned|30034
+nonce|30130
+nonchalance|30199
+nonchalant|30246
+noncommissioned officer|30286
+noncommittal|30319
+noncommunicable|30386
+nonconforming|30427
+nondocument file|30484
+none|30893
+nonentity|30926
+nonetheless|31000
+noninterlaced|31059
+nonpareil|31254
+nonplus|31312
+nonsense|31418
+nonstop|31517
+nonvolatile memory|31557
+noodle|31745
+nook|31797
+noon|31840
+noose|31872
+nop|31954
+nope|32129
+nor|32153
+nordic|32209
+norm|32281
+normal|32351
+normal curve|32556
+normalcy|32660
+normalise|32696
+normalize|32818
+normally|32940
+norman|33000
+north by east|33049
+northeast|33123
+northeasterly|33218
+northeastward|33276
+northerly|33337
+northern|33420
+northernmost|33492
+northward|33526
+northwest|33568
+norway|33646
+norwegian|33694
+nos|33778
+nose|34168
+nose dive|34387
+nose-dive|34460
+nosebleed|34506
+nosegay|34545
+nosepiece|34592
+nosey|34683
+nostalgia|34751
+nostril|34857
+nostrum|34896
+nosy|34955
+not|35023
+not operating properly|35038
+notability|35141
+notable|35231
+notation|35368
+notch|35447
+note|35510
+notebook|35792
+notebook computer|35817
+noted|36078
+notepad|36124
+notepad computer|36373
+notepaper|36648
+noteworthy|36678
+nothing|36746
+notice|36826
+noticeable|37031
+notification|37083
+notify|37170
+notion|37264
+notoriety|37413
+notorious|37500
+notwithstanding|37568
+nought|37680
+noun|37746
+nourish|37788
+novel|37885
+novelist|37923
+novelty|37955
+november|38107
+novice|38133
+now|38196
+nowadays|38339
+noway|38381
+noways|38426
+nowhere|38471
+noxious|38516
+nozzle|38573
+nrtrx13|38619
+nt. wt.|38685
+ntsc|38702
+nubulated|38945
+nubus|38972
+nuclear|39112
+nuclear fission|39142
+nuclear fusion|39230
+nuclear physics|39345
+nuclear reaction|39393
+nuclear reactor|39415
+nucleoli|39441
+nucleus|39638
+nude|39691
+nudge|39776
+nudism|39844
+nudity|39904
+nugget|39962
+nuisance|40046
+nuke|40116
+null|40146
+null modem|40287
+nullification|40383
+nullify|40454
+nullity|40512
+num lock key|40622
+numb|40916
+number|41004
+number crunching|41072
+number system|41191
+numbing|41439
+numerable|41489
+numeral|41554
+numeration|41620
+numerator|41683
+numeric bit|41742
+numeric character|42029
+numeric code|42193
+numeric format|42327
+numeric keypad|42553
+numeric punch|42999
+numerical|43285
+numerical constant|43322
+numerous|43437
+numskull|43499
+nun|43542
+nunnery|43564
+nuptial|43607
+nuptials|43653
+nurse|43684
+nursemaid|43825
+nursery|43875
+nursery school|43970
+nursing bottle|44017
+nursing home|44026
+nursling|44074
+nurture|44196
+nut|44345
+nutcracker|44508
+nutrient|44554
+nutriment|44596
+nutrition|44655
+nutritionist|44753
+nutritious|44786
+nuts|44852
+nuts and bolts|44978
+nutshell|45013
+nutty|45086
+nutwood|45188
+nuzzle|45265
+nylon|45372
+nystagmus|45390

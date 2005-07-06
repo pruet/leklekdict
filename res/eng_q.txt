@@ -1,0 +1,153 @@
+q|0
+q.|51
+q.e.d.|83
+q.s.|135
+qed|204
+ql|256
+quack|473
+quackery|645
+quad|733
+quaddra|814
+quadrangle|934
+quadrant|1056
+quadratic|1139
+quadrature|1229
+quadrennial|1305
+quadri-|1359
+quadric|1382
+quadrilateral|1446
+quadrillion|1503
+quadruped|1576
+quadruple|1642
+quadruplet|1692
+quadruplicate|1750
+quaff|1864
+quag|1940
+quagmire|1972
+quail|2075
+quaint|2126
+quake|2219
+quaker|2316
+quaky|2451
+qualification|2568
+qualified|2681
+qualify|2800
+qualitative|2916
+quality|2972
+quality control|3106
+qualm|3125
+quandary|3297
+quandry|3355
+quantify|3411
+quantitative|3507
+quantity|3570
+quantum|3615
+quantum libet|3671
+quarantine|3694
+quarrel|3852
+quarrelsome|4011
+quarrier|4122
+quarry|4190
+quart|4380
+quarter|4403
+quarter mile|4660
+quarter note|4712
+quarter rest|4746
+quarter round|4779
+quarter-hour|4803
+quarterback|4847
+quartered|4942
+quarterfinal|4979
+quarterly|5069
+quartermaster|5126
+quartermaster corps|5231
+quartermaster depot|5262
+quartermaster general|5278
+quartermaster unit|5297
+quartermaster's departmen|5314
+quarternary|5329
+quartet|5422
+quartz|5543
+quash|5605
+quasi|5689
+quasi-|5767
+quaver|5799
+quay|5970
+queasy|6029
+queen|6137
+queen bee|6381
+queen consort|6395
+queen dowager|6415
+queen mother|6464
+queen post|6513
+queen regent|6535
+queenly|6573
+queer|6649
+quell|6835
+quench|6948
+querist|7066
+query|7099
+query language|7227
+query processing|7448
+quest|7544
+question|7625
+question mark|7863
+questionaire|7884
+questionnaire|7958
+queue|8032
+queuing theory|8104
+quibble|8345
+quibbling|8482
+quick|8564
+quick bread|8802
+quick-fire|8822
+quick-tempered|8865
+quicken|8911
+quicklime|9020
+quickly|9062
+quicksand|9121
+quicksilver|9259
+quicksort|9362
+quickstep|9493
+quid|9582
+quiescent|9647
+quiet|9766
+quieten|9973
+quietude|10012
+quill|10079
+quilt|10267
+quince|10405
+quinine|10440
+quinqu|10503
+quintessence|10519
+quintet|10581
+quintuple|10629
+quintuplet|10689
+quip|10744
+quire|10899
+quirk|10974
+quirt|11182
+quisle|11232
+quisling|11316
+quit|11385
+quite|11548
+quits|11629
+quittance|11743
+quiver|11843
+quixotic|11988
+quiz|12070
+quiz game|12193
+quiz kid|12241
+quizmaster|12265
+quizzical|12332
+quoit|12452
+quondam|12566
+quorum|12597
+quota|12659
+quotable|12697
+quotation|12776
+quotation mark|12884
+quote|12950
+quoteworthy|13122
+quotient|13211
+qwerty keyboard|13250

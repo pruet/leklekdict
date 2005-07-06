@@ -1,0 +1,602 @@
+v|0
+v sign|39
+v-shaped|85
+v.d.|116
+v.h.f.|139
+v.i.p.|164
+vacancy|192
+vacant|295
+vacate|434
+vacation|543
+vaccine|693
+vacillate|735
+vacillating|835
+vacillation|923
+vacua|997
+vacuity|1031
+vacuum|1202
+vacuum bottle|1429
+vacuum brake|1480
+vacuum cleaner|1496
+vagabond|1536
+vagary|1689
+vagina|1797
+vaginal|1857
+vaginal bleeding|1926
+vagrancy|1948
+vagrant|2044
+vague|2195
+vagus nerve|2313
+vain|2530
+vale|2659
+valediction|2688
+valedictory|2741
+valence|2862
+valency|2977
+valentine|3001
+valet|3160
+valiancy|3367
+valiant|3432
+valid|3552
+validity|3718
+valise|3872
+valley|3902
+valo|3976
+valorous|4080
+valuable|4155
+valuate|4343
+valuation|4412
+valuator|4549
+value|4621
+valued|4853
+valueless|4988
+valuer|5075
+valve|5160
+vamp|5343
+vampire|5560
+van|5765
+vanadium|5876
+vanda|5914
+vandal|5991
+vandalism|6212
+vane|6390
+vanguard|6496
+vanilla|6605
+vanish|6757
+vanity|6972
+vanquish|7218
+vantage|7329
+vantage ground|7450
+vantage point|7508
+vanward|7572
+vapid|7637
+vapo|7799
+vapor|7908
+vaporise|8000
+vaporiser|8100
+vaporish|8174
+vaporous|8315
+vaporware|8471
+vapory|8809
+vapour|8877
+vapourise|8969
+vapouriser|9069
+vapourish|9143
+vapourous|9284
+vapoury|9440
+variable|9508
+variance|9753
+variant|10017
+variation|10209
+varicella|10459
+varicolo|10530
+varicose|10601
+varied|10676
+variegate|10785
+variegated|10862
+variegation|10976
+varier|11128
+varietal|11214
+variety|11272
+variola|11423
+various|11487
+varlet|11602
+varnish|11676
+vary|11908
+vas|12026
+vascular|12048
+vase|12192
+vasectomy|12270
+vaseline|12337
+vasi-|12386
+vasodilalator|12408
+vasopressin|12425
+vassal|12452
+vastitude|12612
+vat|12716
+vatican|12796
+vatican city|12922
+vaude ville|13012
+vault 1|13109
+vault 2|13354
+vaunt|13522
+vaunting|13594
+vax|13668
+vd|14081
+vdt|14104
+vdu|14231
+veal|14434
+vector|14526
+veda|14733
+vedette|14774
+vedic|14839
+vee|14873
+veer|14905
+vegetable|15026
+vegetarian|15169
+vegetation|15315
+vegetative|15480
+vehemence|15740
+vehement|15846
+vehicle|15949
+vehicular|16064
+veil|16135
+vein|16364
+veld|16498
+veldt|16551
+vellum|16604
+velocipede|16825
+velocity|16922
+velodrome|16993
+velvet|17047
+velvety|17211
+venal|17294
+vend|17384
+vendee|17476
+vender|17496
+vendetta|17524
+vendible|17617
+vending machine|17742
+vendor group|17787
+veneer|18053
+venerable|18270
+venerate|18425
+veneration|18497
+venereal|18681
+venereal disease|18761
+venereal wart|18797
+venetian|18808
+venezuela|18870
+venge|18981
+vengeance|19010
+vengeful|19191
+venial|19307
+venice|19418
+venison|19495
+venom|19535
+venomous|19656
+venous|19778
+vent 1|19859
+vent 2|19973
+ventilate|20161
+ventilation|20315
+ventilator|20463
+ventral|20546
+ventricle|20755
+ventricular|20827
+ventriloquism|20924
+ventriloquist|21065
+ventriloquy|21179
+venture|21219
+venturesome|21462
+venturous|21582
+venue|21703
+venus|21783
+venus's-flytrap|21942
+veracious|22006
+veracity|22105
+veranda|22251
+verandah|22342
+verb|22433
+verbal|22475
+verbal note|22680
+verbal noun|22718
+verbalise|22744
+verbalize|22920
+verbatim|23096
+verbiage|23169
+verbify|23287
+verbose|23361
+verdant|23503
+verdict|23576
+verdigris|23655
+verdure|23794
+verdurous|23914
+verge|23986
+verger|24132
+veriest|24217
+verifiable|24290
+verification|24399
+verify|24555
+verily|24713
+verisimilitude|24804
+veritable|24947
+verity|25065
+vermi-|25194
+vermicelli|25215
+vermicidal|25276
+vermiform|25351
+vermiform appendix|25406
+vermifuge|25417
+vermilion|25497
+vermillion|25591
+vermin|25685
+verminous|25888
+vermivorous|26009
+vernacular|26046
+vernation|26295
+vernier|26332
+versatile|26540
+verse|26756
+versed|26948
+versification|27028
+versify|27183
+version|27298
+verst|27490
+vertebra|27590
+vertebral|27660
+vertebral column|27762
+vertebrata|27779
+vertebrate|27834
+vertex|27954
+vertical|28108
+vertical scroll bar|28364
+vertices|28730
+vertigo|28763
+very|28863
+very large scale integrat|29034
+vesicle|29409
+vesicular|29555
+vesper|29677
+vessel|29885
+vest|30046
+vestal|30220
+vested|30348
+vestibule|30471
+vestige|30677
+vesuvius|30796
+vet 1|30858
+vet 2|30938
+vet.|30961
+vetch|30999
+vetchling|31107
+veteran|31143
+veterinarian|31332
+veterinary|31364
+veto|31437
+vex|31696
+vexation|31823
+vexatious|31943
+vga|32053
+vhf|32604
+via|32629
+viable|32665
+viaduct|32874
+vial|32900
+viand|32994
+vibrant|33041
+vibrate|33203
+vibrator|33386
+vicar|33480
+vicarious|33617
+vice|33836
+vice admiral|34053
+vice chancellor|34090
+vice consul|34151
+vice president|34280
+vice versa|34395
+vice-|34451
+vice-chairman|34475
+vice-governor|34523
+vice-premier|34594
+vice-regent|34632
+vicegerent|34758
+viceroy|34834
+vicinity|34918
+vicious|34996
+vicissitude|35113
+victim|35270
+victimise|35364
+victimize|35504
+victor|35644
+victoria|35676
+victorian|35920
+victorious|36175
+victory|36254
+victress|36320
+victual|36347
+victualage|36453
+victualer|36487
+victualler|36568
+videlicet|36649
+video|36705
+video adapter|36785
+video card|36977
+video disk|37170
+video display terminal|37327
+video graphics array|37446
+video memory|37911
+video mode|38111
+video ram|38515
+videocassette|38688
+videoconference|38739
+vie|39072
+vienna|39148
+viennese|39220
+vientiane|39292
+vietnam|39324
+vietnamese|39424
+view|39555
+viewer|39813
+viewpoint|39891
+vigil|39954
+vigilance|40040
+vigilant|40101
+vigilante|40182
+vigilantism|40245
+vigor|40301
+vigorous|40403
+vigour|40505
+viking|40607
+vile|40703
+vilify|40839
+villa|40970
+village|41047
+villager|41162
+villain|41191
+villainous|41273
+villainy|41374
+villose|41454
+villosity|41514
+villous|41580
+vim|41640
+vin|41741
+vin-|41770
+vina|41802
+vindicable|41857
+vindicate|41906
+vindicative|42030
+vindicatory|42137
+vine|42234
+vinegar|42306
+vinery|42376
+vineyard|42421
+vinic|42480
+viniculture|42546
+vinous|42641
+vintage|42723
+vintage wine|42981
+vintage year|43000
+vintager|43072
+vintner|43128
+viny|43178
+viol|43251
+viola|43308
+violable|43375
+violate|43449
+violation|43616
+violence|43771
+violent|43887
+violet|44004
+violin|44124
+violin clef|44176
+violinist|44196
+violist|44230
+violoncellist|44282
+violoncello|44314
+vip|44351
+viper|44379
+viperish|44524
+viperous|44567
+virago|44637
+viral|44761
+virgin|44805
+virgin mary|45061
+virgin queen|45111
+virginal|45147
+virginity|45269
+virgo|45419
+virgule|45485
+viridity|45565
+virile|45663
+virilism|45796
+virility|45848
+virology|45941
+virose|46050
+virous|46080
+virtual|46110
+virtual disk|46158
+virtual machine|46499
+virtual memory|46903
+virtue|47192
+virtuosity|47405
+virtuoso|47519
+virtuous|47715
+virulence|47838
+virulent|47942
+virus|48112
+virus disease|48190
+vis|48212
+vis-|48267
+visa|48450
+visage|48612
+viscera|48724
+visceral|48816
+viscid|48882
+viscoid|48957
+viscosity|49019
+viscount|49073
+viscountess|49176
+viscous|49269
+vise|49326
+vishnu|49416
+visibility|49479
+visible|49551
+vision|49678
+visional|49909
+visionary|49967
+visit|50124
+visitation|50331
+visitator|50474
+visiting card|50547
+visitor|50561
+visor|50597
+vista|50752
+visual|50827
+visual basic|51045
+visual display unit|51228
+visual programming|51445
+visualise|51687
+visualize|51820
+visually|51953
+vita|52058
+vitae|52119
+vital|52180
+vitalise|52343
+vitality|52459
+vitalize|52596
+vitals|52712
+vitamin|52807
+vitamin a|52837
+vitamin b complex|52985
+vitamin b1|53056
+vitamin b12|53069
+vitamin b2|53178
+vitamin b6|53193
+vitamin c|53208
+vitamin d|53247
+vitamin d1|53342
+vitamin d2|53378
+vitamin d3|53393
+vitamin e|53513
+vitamin g|53616
+vitamin h|53631
+vitamin k1|53642
+vitamin k2|53713
+vitamin p|53748
+vitamine|53804
+vitiate|53834
+viticulture|53957
+vitreous|54064
+vitrification|54160
+vitriol|54254
+vitriolic|54427
+vituperate|54543
+vituperation|54657
+vituperative|54758
+viva|54822
+viva voce|54898
+vivace|54999
+vivacious|55075
+vivacity|55187
+vive|55259
+vivid|55297
+vivify|55510
+vivipara|55626
+viviparous|55668
+vivisect|55779
+vixen|56021
+viz.|56143
+vizi|56170
+vizor|56344
+vlsi|56377
+vocable|56747
+vocabulary|56823
+vocal|57017
+vocal cords|57150
+vocalise|57222
+vocalize|57331
+vocation|57440
+vocative|57620
+vociferant|57698
+vociferate|57811
+vociferous|57929
+vodka|58052
+vogue|58084
+voice|58147
+voice box|58396
+voiced|58428
+voiceful|58501
+voiceless|58551
+void|58662
+voidable|58903
+voidance|58957
+voided|59055
+voile|59096
+volatile|59168
+volatise|59337
+volatize|59436
+volcanic|59535
+volcano|59625
+vole|59691
+volga|59779
+volition|59822
+volitive|59976
+volley|60052
+volleyball|60160
+volplane|60190
+volt|60213
+voltage|60230
+voltaic|60295
+voltaic battery|60341
+voltaic cell|60422
+voluble|60455
+volume|60531
+volumed|60643
+volumetric|60730
+voluminous|60838
+voluntary|60985
+volunteer|61196
+voluptuary|61235
+voluptuous|61310
+volute|61428
+vomit|61520
+von|61686
+voodoo|61720
+voracious|61843
+voracity|61966
+vortex|62071
+vortical|62211
+vortices|62257
+votable|62291
+votaless|62351
+votaress|62421
+votarist|62471
+votary|62537
+vote|62643
+voteable|62793
+voter|62819
+votive|62869
+vouch|62946
+voucher|63056
+vow|63188
+vowel|63313
+vox|63371
+voyage|63398
+vram|63618
+vs.|63774
+vulcan|63793
+vulcanite|63831
+vulgar|63895
+vulgarian|64033
+vulgarise|64091
+vulgarism|64237
+vulgarity|64334
+vulgarize|64440
+vulnerable|64586
+vulnerary|64732
+vulpine|64785
+vulture|64828
+vulturine|64849
+vulva|64937
+vying|65038

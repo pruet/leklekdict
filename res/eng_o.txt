@@ -1,0 +1,885 @@
+o|0
+o'clock|27
+o.k.|123
+oa|240
+oach|773
+oaf|811
+oak|883
+oak apple|925
+oak gall|942
+oar|959
+oarlock|1031
+oarsman|1067
+oasis|1126
+oat|1226
+oaten|1301
+oath|1343
+oatmeal|1407
+obbligato|1475
+obcordate|1589
+obdurate|1627
+obedience|1693
+obedient|1753
+obeisance|1811
+obelise|1898
+obelisk|1958
+obelize|2098
+obese|2158
+obey|2223
+obfuscate|2309
+obiit|2345
+obit|2382
+obiter|2409
+obituary|2449
+object|2486
+object glass|2724
+object language|2784
+object linking and embedd|3217
+object program|3660
+object-oriented programmi|4164
+objectify|5014
+objection|5120
+objectionable|5201
+objective|5238
+objective case|5456
+objective glass|5468
+objectivism|5512
+objectivity|5548
+objurgate|5626
+oblate|5660
+oblation|5717
+obligate|5820
+obligation|5975
+obligatory|6171
+oblige|6293
+obligee|6508
+obliging|6552
+obligor|6699
+oblique|6745
+obliquity|6822
+obliterate|6861
+oblivion|6999
+oblivious|7083
+oblong|7182
+obloquy|7337
+obnoxious|7441
+oboe|7572
+oboist|7617
+obovate|7648
+obovoid|7709
+obscene|7764
+obscenity|7886
+obscurantism|7921
+obscuration|8001
+obscure|8050
+obscurity|8263
+obsecrate|8415
+obsequeence|8487
+obsequence|8535
+obsequial|8583
+obsequies|8624
+obsequious|8662
+obsequy|8758
+observable|8799
+observance|8921
+observant|9051
+observation|9219
+observatory|9376
+observe|9443
+observer|9565
+obsess|9607
+obsession|9735
+obsolesce|9849
+obsolescence|9881
+obsolescent|9913
+obsolete|9951
+obstacle|10038
+obstacle race|10075
+obstetric|10122
+obstetrical|10185
+obstetrician|10248
+obstetrics|10279
+obstinacy|10309
+obstinate|10385
+obstreperous|10526
+obstruct|10630
+obstruction|10752
+obstructionist|10835
+obstruent|10918
+obtain|11010
+obtect|11158
+obtest|11186
+obtrude|11288
+obtrusive|11409
+obtund|11489
+obtundent|11575
+obturate|11695
+obtuse|11752
+obverse|11860
+obversion|11939
+obvert|11982
+obviate|12071
+obvious|12197
+ocarina|12297
+occasion|12326
+occasional|12543
+occasional irregularity|12623
+occasionalism|12956
+occident|13007
+occiput|13148
+occlude|13226
+occlusion|13335
+occlusive|13383
+occult|13474
+occultation|13568
+occultism|13628
+occupancy|13735
+occupant|13799
+occupation|13863
+occupational|13933
+occupational disease|13994
+occupational therapy|14023
+occupy|14036
+occur|14136
+occurrence|14176
+ocean|14276
+ocean liner|14329
+oceanarium|14346
+oceanfront|14398
+oceania|14439
+oceanica|14501
+oceanid|14563
+oceanograph|14621
+oceanography|14691
+oceanology|14747
+ocellar|14810
+ocellated|14851
+ocellation|14918
+ocellus|14950
+ocelot|15080
+ocher|15122
+ochlocracy|15178
+ochre|15265
+ocr|15321
+ocreate|15709
+octagon|15739
+octahedral|15769
+octahedron|15798
+octal|15830
+octamerous|16046
+octane|16089
+octane number|16133
+octave|16172
+octavo|16246
+octet|16287
+octette|16387
+october|16487
+octopus|16537
+octuplex|16581
+ocular|16636
+ocularmotor nerve|16665
+oculist|16768
+oculo-|16797
+oculomotor|16817
+od|16868
+odd|16918
+odd even check|16968
+odd lot|17561
+odd parity|17667
+odd-job|17837
+oddball|17894
+oddish|17925
+oddity|17950
+oddment|18038
+odds|18151
+odds and ends|18368
+ode|18453
+odeum|18493
+odic|18529
+odin|18556
+odious|18600
+odium|18696
+odograph|18784
+odometer|18827
+odont-|18896
+odontalgia|18926
+odonto-|18957
+odontoid|18991
+odontologist|19018
+odontology|19050
+odor|19120
+odorant|19193
+odoriferous|19224
+odorous|19328
+odour|19365
+odysseus|19438
+odyssey|19504
+oecology|19561
+oedema|19592
+oem|19625
+oesophagus|19827
+oested|19854
+of|19903
+ofay|20002
+off|20036
+off chance|20462
+off line device|20490
+off line processing|20717
+off-bird|20949
+off-hour|20987
+off-key|21083
+off-limits|21144
+off-line|21174
+off-load|21427
+off-season|21451
+off-the-cuff|21575
+off-the-shelf|21638
+offal|21691
+offbeat|21766
+offcast|21800
+offence|21854
+offend|22022
+offense|22165
+offensive|22333
+offer|22513
+offering|22661
+offertory|22771
+offhand|22845
+offhanded|23057
+office|23108
+office automation|23330
+office-bearer|23832
+office-block|23862
+officer|23893
+official|23959
+officialdom|24013
+officialese|24047
+officialism|24104
+officiant|24152
+officiary|24207
+officiate|24267
+officious|24362
+offing|24471
+offish|24610
+offlet|24652
+offset|24679
+offshoot|24840
+offside|24916
+offspring|24955
+offstage|25059
+offtake|25107
+oft|25145
+often|25171
+ogee|25214
+ogive|25309
+ogle|25423
+ogre|25447
+oh|25481
+ohm|25535
+ohmage|25568
+ohmmeter|25609
+oho|25664
+oil|25731
+oiliness|25750
+oily|25893
+ointment|25996
+ok button|26043
+okapi|26431
+okay|26488
+okeh|26520
+okey|26552
+old|26584
+old boy|26659
+old chap|26704
+old country|26732
+old feet|26758
+old flame|26799
+old fogey|26813
+old fogy|26828
+old glory|26843
+old goat|26889
+old guard. old guard|26924
+old hand|27006
+old harry|27034
+old hat|27050
+old maid n.|27099
+old man|27116
+old man's beard|27160
+old master|27188
+old nick|27223
+old regime|27239
+old school|27286
+old scratch|27327
+old stager|27343
+old testament|27358
+old world|27411
+old-fangeld|27440
+old-maidish|27476
+old-shoe|27507
+old-tim|27540
+old-timer|27609
+olden|27649
+older|27689
+oldest|27731
+oldie|27769
+oldish|27831
+oldster|27859
+oldy|27891
+ole|27953
+oleaginous|28477
+oleander|28542
+oleo|28600
+oleo-|28634
+oleograph|28649
+oleomargarin|28725
+olericulture|28760
+oleum|28838
+olfaction|28869
+olfactory|28918
+olfactory nerve|28999
+olfactronics|29082
+olican|29141
+olid|29179
+oligarch|29209
+oligemia|29285
+oligopoly|29323
+oligopsony|29402
+oligospermia|29485
+olio|29499
+olive|29619
+olive branch|29656
+olivet|29709
+olluvial|29737
+ology|29778
+olympian|29837
+olympic games|29871
+olympic-size pool|29887
+oman|29939
+omar khayyam|29977
+omasum|30053
+ombo|30146
+ombudsman|30178
+omega|30266
+omega minus|30338
+omelet|30424
+omelette|30455
+omen|30486
+omental fat|30572
+omentum|30588
+ominous|30661
+omissible|30752
+omission|30798
+omissive|30847
+omit|30893
+omn|30945
+omnibus|30970
+omnifarious|31058
+omnificient|31137
+omniparity|31238
+omniphibious|31283
+omnipotence|31337
+omnipotent|31443
+omnipresent|31579
+omniscience|31650
+omniscient|31719
+omnitron|31766
+omnium|31805
+omnium-gatherum|31849
+omnivora|31967
+omnivore|32009
+omnivorous|32052
+omophagous|32148
+omphalo-|32179
+omphalos|32198
+omr|32228
+on|32474
+on line device|32762
+on line processing|32995
+on-line|33553
+onanism|33940
+once|34032
+oncology|34288
+oncoming|34352
+ondometer|34418
+one|34494
+one up|34600
+one's|34644
+one-handed|34680
+one-horse|34721
+one-idead|34797
+one-ideaed|34870
+one-liner|34943
+one-sided|35017
+one-up|35108
+oneiromancy|35188
+oneness|35274
+onerous|35323
+oneself|35406
+ongoing|35547
+onion|35624
+onlooker|35655
+only|35678
+onomastic|35823
+onomatopoeia|35857
+onset|35994
+onslaught|36048
+onto|36097
+ontogeny|36132
+ontology|36183
+onus|36256
+onward|36287
+onwards|36351
+onychomycosis|36412
+oocyte|36427
+oof|36485
+oofy|36523
+oogenenesis|36559
+oogenesis|36643
+oogonium|36727
+oology|36868
+oomph|36946
+ooogonium|37014
+oop|37155
+oophor-|38034
+oophorectomy|38049
+oophoritis|38096
+oops|38139
+oosperm|38215
+oospore|38273
+ooze|38335
+op code|38411
+op. cit|38723
+opacity|38767
+opal|38868
+opalescent|38906
+opaline|38977
+opaque|39009
+opec|39159
+open|39214
+open air|39453
+open architecture|39473
+open secret|39678
+open sesame|39704
+open verdict|39786
+open-air|39815
+open-book|39852
+open-handed|39885
+open-minded|39979
+open-mouthed|40084
+opener|40197
+openhanded|40242
+opening|40336
+openwork|40493
+opera|40531
+opera hat|40699
+operable|40741
+operant|40849
+operate|40954
+operatic|41057
+operating system|41103
+operation|41567
+operation code|41760
+operation research|42049
+operational|42145
+operations research|42276
+operative|42535
+operator|42694
+ophiology|42929
+ophthalmic|42996
+ophthalmologist|43026
+ophthalmology|43060
+ophthalmoscope|43123
+opiate|43198
+opine|43281
+opinion|43349
+opinionated|43407
+opisthorchiasis|43484
+opium|43503
+opium den|43522
+opium poppy|43538
+opossum|43549
+oppilate|43598
+opponency|43685
+opponent|43771
+opportune|43892
+opportunism|43976
+opportunist|44031
+opportunity|44063
+opposable|44139
+oppose|44234
+opposite|44360
+opposition|44474
+oppositionist|44668
+oppress|44734
+oppression|44855
+oppressive|44959
+opprobrious|45080
+opprobrium|45184
+oppugn|45264
+oppugnant|45330
+opropholous|45430
+ops|45472
+opt|45510
+optative|45553
+optic|45609
+optic nerve|45687
+optical|45774
+optical bar code reader|45852
+optical character reecogn|46035
+optical disk|46377
+optical fibre|46614
+optical mark reader|46925
+optical mouse|47155
+optical scanner|47257
+optician|47509
+opticist|47607
+optics|47652
+optimal|47701
+optimeter|47764
+optimise|47808
+optimism|47961
+optimist|48012
+optimistic|48060
+optimum|48197
+option|48300
+option key|48351
+optional|48676
+optionee|48756
+opto-|48796
+optometer|48811
+optometrist|48912
+optometry|48972
+optotype|49040
+opulence|49086
+opulent|49153
+opus|49218
+opuscule|49278
+or|49357
+oracle|49396
+oracular|49522
+oral|49626
+orang|49696
+orange|49731
+orange crush|49794
+orangeade|49808
+orangery|49835
+orangutan|49879
+orate|49967
+oration|50042
+orator|50137
+oratory|50218
+orb|50288
+orbicular|50399
+orbiculate|50480
+orbit|50531
+orc|50659
+orca|50723
+orchard|50787
+orchardist|50821
+orchardman|50900
+orchestra|50929
+orchid|50982
+orchidology|51005
+orchis|51082
+ordain|51125
+ordeal|51270
+order|51343
+order cheque|51665
+order of battle|51682
+orderliness|51698
+orderly|51756
+ordinal|51944
+ordinal number n.|52028
+ordinance|52063
+ordinand|52140
+ordinarily|52207
+ordinary|52275
+ordinate|52457
+ordination|52519
+ordnance|52639
+ordonnance|52745
+ordure|52843
+ore|52916
+organ|52937
+organdie|53062
+organdy|53168
+organic|53274
+organic chemistry|53400
+organic disease|53415
+organise|53467
+organiser|53640
+organism|53680
+organist|53799
+organization|53847
+organize|54007
+organizer|54180
+orgasm|54220
+orgie|54295
+orgy|54469
+orient|54643
+oriental|54821
+orientation|54944
+orifice|55061
+origami|55134
+origin|55197
+original|55306
+original equipment manufa|55437
+originality|55644
+originally|55748
+originate|55806
+oriole|55942
+orion|55994
+ornament|56033
+ornamental|56112
+ornamentation|56171
+ornate|56230
+ornery|56325
+ornithology|56415
+orotund|56504
+orphan|56634
+orth|56989
+orthodontics|57047
+orthodontist|57124
+orthodox|57159
+orthodoxy|57305
+orthopaedics|57364
+orthopaedist|57532
+orthopedics|57571
+orthopedist|57739
+orthostatic hypotension|57778
+os|57805
+os/2|58420
+oscar|58615
+oscillate|58673
+oscillation|58748
+oscillator|58838
+osculation|58913
+osmosis|58978
+osmotic pressure|59067
+osprey|59126
+ossify|59176
+oste|59293
+ostensible|59313
+ostentation|59420
+ostentatious|59487
+osteopathy|59562
+ostler|59666
+ostracise|59691
+ostracize|59749
+ostrich|59807
+otalgia|59852
+other|59899
+otherwise|60175
+otherworldly|60312
+otic|60416
+otitis|60450
+otology|60477
+otter|60525
+ottoman|60563
+ouch|60638
+ought|60691
+oughtn't|60743
+oui|60771
+ounce|60798
+our|60865
+ours|60889
+ourself|60923
+ourselves|60978
+oust|61019
+ouster|61085
+out|61131
+out-|61389
+out-and|61425
+outact|61512
+outbid|61546
+outboard|61606
+outboard motor|61687
+outbound|61716
+outbreak|61757
+outbuilding|61829
+outburst|61868
+outcast|61959
+outcaste|62084
+outclass|62137
+outcome|62194
+outcomer|62227
+outcrop|62276
+outcry|62361
+outdated|62445
+outdo|62473
+outdoor|62541
+outdoors|62606
+outermost|62696
+outfield|62747
+outfit|62772
+outflank|62969
+outflow|63053
+outgo|63141
+outgoing|63239
+outgrow|63301
+outgrowth|63391
+outguess|63504
+outh|63536
+outing|63579
+outlandish|63711
+outlast|63813
+outlaw|63875
+outlay|63992
+outlet|64068
+outline|64157
+outline font|64349
+outlive|64449
+outlook|64543
+outlying|64644
+outmaneuver|64746
+outmaneuvre|64818
+outmoded|64890
+outmost|64940
+outnumber|64996
+outpatient|65034
+outplay|65063
+outpost|65100
+outpour|65175
+output|65243
+output buffer|65318
+output data|65862
+output device|66029
+output media|66282
+output unit|66568
+outrage|66864
+outrageous|66954
+outreach|67053
+outright|67103
+outrun|67241
+outsell|67317
+outset|67362
+outshine|67399
+outshoot|67495
+outside|67598
+outsider|67841
+outskirt|67896
+outskirts|67945
+outsmart|67975
+outsoar|68043
+outspoken|68073
+outstanding|68211
+outward|68359
+outwards|68556
+outwear|68583
+outweigh|68707
+outwent|68797
+outwind|68833
+outwit|68887
+outwork|68944
+ova|69102
+oval|69129
+ovary|69208
+ovate|69228
+ovation|69259
+oven|69351
+over|69376
+over-|69721
+over-the-counter|69775
+overact|69870
+overall|69924
+overawe|70113
+overbear|70148
+overbearing|70272
+overblown|70375
+overboard|70472
+overcame|70527
+overcast|70568
+overcharge|70733
+overcloud|70876
+overcoat|70943
+overcome|70994
+overdo|71071
+overdraft|71195
+overdraught|71280
+overdraw|71365
+overdue|71440
+overflow|71529
+overgrow|71798
+overhand|71887
+overhang|71997
+overhaul|72129
+overhear|72277
+overland|72324
+overlap|72390
+overlay|72535
+overleap|73013
+overlie|73082
+overload|73119
+overlook|73176
+overlooker|73305
+overlord|73343
+overly|73374
+overlying|73409
+overmaster|73445
+overmatch|73476
+overnight|73535
+overpass|73635
+overplay|73775
+overrate|73858
+overreach|73910
+override|73989
+overriding|74083
+overrule|74114
+overrun|74235
+oversaw|74435
+oversea|74471
+oversee|74533
+overseer|74609
+overset|74699
+overshadow|74772
+overshoe|74858
+overshoot|74920
+overshot|75009
+oversight|75089
+oversize|75120
+overskirt|75164
+oversleep|75224
+overstay|75279
+overstep|75322
+overt|75377
+overtake|75419
+overthrew|75504
+overthrow|75539
+overtime|75617
+overtone|75718
+overture|75845
+overturn|75988
+overween|76043
+overweigh|76090
+overweight|76130
+overwhelm|76164
+overwhelming|76250
+overwind|76381
+overwrite|76412
+overwrought|76758
+oviparous|76901
+ovoid|76957
+ovulation|77005
+ovule|77014
+ovum|77052
+owe|77085
+owing|77107
+owl|77187
+owlet|77208
+owlish|77234
+own|77264
+owner|77403
+ownership|77425
+ox|77458
+oxcart|77487
+oxen|77521
+oxford|77549
+oxide|77591
+oxidise|77668
+oxidize|77726
+oxygen|77784
+oxytocin|77812
+oyster|77931
+oz|77967
+oz.|77986
+ozone|78005

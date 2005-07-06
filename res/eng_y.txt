@@ -1,0 +1,151 @@
+y|0
+y chromosome|56
+y-axis|199
+y.m.c.a.|246
+y.w.c.a.|286
+yach|328
+yacht|357
+yachting|434
+yachtsman|507
+yachtswoman|616
+yackety|700
+yak|822
+yam|878
+yam-bean|894
+yammer|904
+yammerer|984
+yank|1001
+yankee|1045
+yao|1069
+yap|1105
+yard|1168
+yard goods|1284
+yard measure|1322
+yard rope|1355
+yardage|1380
+yardbird|1494
+yardman|1529
+yardmaster|1604
+yardstick|1651
+yardwand|1713
+yare|1751
+yarn|1857
+yaw|1977
+yawl|2094
+yawn|2145
+yawning|2237
+yawp|2285
+yaws|2391
+ycleped|2465
+yclept|2500
+ye 1|2535
+ye 2|2582
+yea|2611
+yea and nay|2712
+yeah|2733
+yean|2756
+year|2790
+year-around|2886
+year-end|2916
+yearbook|2962
+yearling|3007
+yearlong|3080
+yearly|3114
+yearn|3210
+yearning|3307
+yeast|3434
+yeasty|3563
+yelk|3703
+yell|3720
+yellow|3812
+yellow fever|4045
+yellow jack|4150
+yellow journalism|4167
+yellow pages|4194
+yellow peril|4225
+yellow pine|4262
+yellow press|4327
+yellowish|4347
+yellowjacket|4394
+yelp|4452
+yen|4511
+yeoman|4615
+yeoman's service|4782
+yerk|4823
+yes|4903
+yes man|4941
+yesman|4974
+yester|5007
+yesterday|5049
+yesterdayeve|5178
+yesterdayevening|5206
+yesterdaymorning|5278
+yestern|5339
+yesternight|5369
+yesternoon|5438
+yesterweek|5498
+yet|5569
+yeti|5707
+yield|5756
+yielding|5947
+yin and yang|6017
+yip|6118
+yipe|6205
+yippee|6284
+ymodem|6344
+yoga|6535
+yoghourt|6590
+yoghurt|6615
+yogi|6640
+yogini|6706
+yogurt|6742
+yoicks|6767
+yoke|6840
+yoke bone|7100
+yokefellow|7118
+yokemate|7184
+yolk|7250
+yom|7321
+yom kippur|7415
+yon|7509
+yonder|7577
+yoni|7634
+yore|7667
+york|7744
+you|7817
+you'd|7841
+you'll|7872
+you're|7904
+you've|7926
+you-all|7947
+young|7971
+young brother|8141
+young man|8152
+young one|8185
+young sister|8223
+youngblood|8234
+younger|8331
+youngling|8395
+youngster|8471
+younker|8558
+your|8634
+your'n|8716
+yourn|8729
+yours|8742
+yours truly|8772
+yourself|8809
+youse|8869
+youth|8932
+youthen|9033
+youthful|9083
+yowl|9180
+ytterbium|9298
+yuan|9355
+yucca|9460
+yugoslavia|9534
+yule|9639
+yule block|9674
+yule clog|9754
+yule log|9834
+yummy|9914
+ywis|9945
