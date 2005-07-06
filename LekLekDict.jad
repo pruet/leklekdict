@@ -1,0 +1,8 @@
+MIDlet-1: LekLekDict, /icon.png, LekLekDict
+MIDlet-Jar-Size: 5629
+MIDlet-Jar-URL: LekLekDict.jar
+MIDlet-Name: LekLekDict
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: Pruet Boonma
+MIDlet-Version: 0.4.0
+MIDlet-Description: LekLekDict - Offline Database for Mobile Device
