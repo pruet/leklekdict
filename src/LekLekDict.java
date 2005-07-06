@@ -59,7 +59,8 @@ public class LekLekDict extends MIDlet implements CommandListener
   protected TextBox thaitextbox;
   
   protected String tempString;
-
+  private byte[] tempByteArray;
+  
   public static final String TH_PREFIX = "te";
   public static final String EN_PREFIX = "et";
 
@@ -349,14 +350,24 @@ public class LekLekDict extends MIDlet implements CommandListener
  
   public void displayThaiText(byte[] tb)
   {
+	int l = tb.length;
+	tempByteArray = new byte[l];
+	for(int i = 0; i != l; i++) {
+		tempByteArray[i] = tb[i];
+	}
+	switchThaiDisplay();
+  }
+  public void switchThaiDisplay()
+  {
 	if(Integer.parseInt(setting.get("view_method")) == VIEW_TDIS) {
-		thaidisplay.displayText(ByteArray.convertFromSaraUm(tb));
+		thaidisplay.displayText(ByteArray.convertFromSaraUm(tempByteArray));
 		display.setCurrent(thaidisplay); 
 	} else {
-		if(tb.length > thaitextbox.getMaxSize()) thaitextbox.setMaxSize(tb.length + 10);
-		thaitextbox.setString(new String(ByteArray.convertToChars(ByteArray.convertToSaraUm(tb))));
+		if(tempByteArray.length > thaitextbox.getMaxSize()) thaitextbox.setMaxSize(tempByteArray.length + 10);
+		thaitextbox.setString(new String(ByteArray.convertToChars(ByteArray.convertToSaraUm(tempByteArray))).replace('|', (char)0));
 		display.setCurrent(thaitextbox);
 	}
+ 	
   }
   
   public void commandAction(Command command, Displayable displayable)
@@ -453,7 +464,8 @@ public class LekLekDict extends MIDlet implements CommandListener
 				}
 			} else if(command == switchViewCommand) {
 				setting.set("view_method", "" + VIEW_TBOX);
-				displayThaiText(thaidisplay.getBytes());
+				//displayThaiText(thaidisplay.getBytes());
+				switchThaiDisplay();
 			}
 		} else if(displayable == thaitextbox) {
 			if (command == backCommand) {
@@ -471,7 +483,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 				}
 			} else if(command == switchViewCommand) {
 				setting.set("view_method", "" + VIEW_TDIS);
-				displayThaiText(ByteArray.convertFromString(thaitextbox.getString()));
+				switchThaiDisplay();
 			}
 		} else if(displayable == thaipickboard) {	
   			if(command == submitCommand) {

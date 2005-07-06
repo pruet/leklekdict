@@ -3,7 +3,7 @@ MIDlet-Name: LekLekDict
 MIDlet-Icon: /icon.png
 MIDlet-Vendor: Pruet Boonma
 MIDlet-Version: 0.4.0
-MIDlet-Description: Offline Database for Mobile Device
+MIDlet-Description: Offline Dictionary for Mobile Device
 MIDlet-Info-URL: http://project-ile.net/lulu/leklekdict/
 MicroEdition-Configuration: CLDC-1.0
 MicroEdition-Profile: MIDP-1.0

@@ -225,11 +225,11 @@ public class ByteArray
 
 	static public boolean equals(byte[] bta, String word, int limit)
 	{
-	return equals(bta, getBytes(word), limit);
+		return equals(bta, getBytes(word), limit);
 	}
 	static public boolean equals(byte[] bta, byte[] btb, int limit)
 	{
-		if(bta == null || btb == null ||  btb.length != limit || bta.length < limit) return false;
+		if(bta == null || btb == null ||  btb.length != limit || bta.length < limit)			return false;
 		for(int i = 0; i != limit; i++) {
 			if(bta[i] != btb[i]) return false;
 		}
@@ -250,7 +250,6 @@ public class ByteArray
 		}
 		return bt;
 	}
-
 	public static char[] convertToChars(byte[] bt)
 	{
 		int l;
