@@ -41,10 +41,12 @@ public class ThaiDisplay extends Canvas
   int[] buffer;
   String font_id = null;
   private static Image myFont = null;       // Used Fon
+  private LekLekDict midlet = null;
 
 // Constructor
-  public ThaiDisplay()
+  public ThaiDisplay(LekLekDict mid)
   {
+	midlet = mid;
     try {
       loadFont(1);
     }
@@ -201,6 +203,8 @@ public class ThaiDisplay extends Canvas
 	} else if (getGameAction(keyCode) == DOWN) {
 		direction = -1;
 		repaint();
+	} else if (getGameAction(keyCode) == LEFT) {
+		midlet.ThaiDisplayCommandActionCallBack();
 	}
   }
 

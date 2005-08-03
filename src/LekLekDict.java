@@ -1,4 +1,4 @@
-// Copyright (C) 2003,2004 Pruet Boonma <pruet@eng.cmu.ac.th>
+// Copyright (C) 2003,2004,2005 Pruet Boonma <pruet@eng.cmu.ac.th>
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ import javax.microedition.lcdui.*;
 import java.io.*;
 import java.util.*;
 
-public class LekLekDict extends MIDlet implements CommandListener
+public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCBInf, ThaiDisplayCBInf
 {
   protected Display display;
   protected ThaiDisplay thaidisplay;
@@ -229,9 +229,9 @@ public class LekLekDict extends MIDlet implements CommandListener
   {
   	findForm = new Form("LekLekDict");
   	setupForm = new Form("Setup");
-	thaidisplay = new ThaiDisplay();
+	thaidisplay = new ThaiDisplay(this);
 	thaipickboard = new ThaiPickBoard();
-	thailistbox = new ThaiListBox();
+	thailistbox = new ThaiListBox(this);
 	thaitextbox = new TextBox("LekLekDict", "", 1024, TextField.ANY);
 	prevDisplay = null;
 	
@@ -348,7 +348,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 	}
   }
  
-  public void displayThaiText(byte[] tb)
+  protected void displayThaiText(byte[] tb)
   {
 	int l = tb.length;
 	tempByteArray = new byte[l];
@@ -357,7 +357,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 	}
 	switchThaiDisplay();
   }
-  public void switchThaiDisplay()
+  private void switchThaiDisplay()
   {
 	if(Integer.parseInt(setting.get("view_method")) == VIEW_TDIS) {
 		thaidisplay.displayText(ByteArray.convertFromSaraUm(tempByteArray));
@@ -393,10 +393,10 @@ public class LekLekDict extends MIDlet implements CommandListener
 			String version;
 			String copyright;
 			if((version = getAppProperty("LekLekDict-Version")) == null) {
-				version = new String("0.3.2");
+				version = new String("0.4.0");
 			}
 			if((copyright = getAppProperty("Copyright")) == null) {
-				copyright = new String("(C) 2003,2004 Pruet Boonma <pruet@eng.cmu.a.cth>");
+				copyright = new String("(C) 2003,2004,2005 Pruet Boonma <pruet@eng.cmu.a.cth>");
 			}
 			sb.append("* Lek-Lek Dictionary " + version + " Copyright " + copyright + " GPL Applied\n");
 			sb.append("* ThaiFontDisplay Copyright (C) 2002 Vuthichai Ampornaramveth <vuthi@vuthi.com>\n");
@@ -415,7 +415,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 		 }
 		if(displayable == findForm) {
 			if(command == submitCommand || command.getCommandType() == Command.OK) {
-				String search = findTextField.getString().toLowerCase();
+				String search = findTextField.getString().toLowerCase().trim();
 				if(search.length() > 0) {
 					findTextField.setString(new String("Searching..."));
 					String str = directSearch(search);
@@ -432,7 +432,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 					search = null;
 				}
 			 } else if(command == submitPrefixCommand) {
-			 	String search = findTextField.getString().toLowerCase();
+			 	String search = findTextField.getString().toLowerCase().trim();
 				if(search != null && search.length() > 0) {
 					byte result[][] = prefixSearch(search);
 					if(result == null || result.length <= 0) {
@@ -450,18 +450,7 @@ public class LekLekDict extends MIDlet implements CommandListener
 			 }
 		} else if(displayable == thaidisplay) {
 			if (command == backCommand) {
-				if(prevDisplay != null) {
-					if(prevDisplay == thailistbox) thailistbox.refresh();
-					display.setCurrent(prevDisplay);
-					prevDisplay = null;
-				} else {
-					if(Integer.parseInt(setting.get("input_method")) == IM_TEXTFIELD) {
-						display.setCurrent(findForm);
-					} else {
-						thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
-						display.setCurrent(thaipickboard);
-					}
-				}
+				BackFromThaiDisplay();
 			} else if(command == switchViewCommand) {
 				setting.set("view_method", "" + VIEW_TBOX);
 				//displayThaiText(thaidisplay.getBytes());
@@ -536,26 +525,9 @@ public class LekLekDict extends MIDlet implements CommandListener
 			}
 		} else if(displayable == thailistbox) {
 			if(command == submitCommand) {
-  				byte[] search = thailistbox.getSelectedEntryText();
-  				if(search != null && search.length > 0) {
-	  				String str = directSearch(new String(search));
-					if(str == null) {
-						Alert al = new Alert("Error", "Cannot find the meaning of the search word.", null, AlertType.WARNING);
-						al.setTimeout(Alert.FOREVER);
-						display.setCurrent(al);
-					} else {
-						prevDisplay = thailistbox;
-						displayThaiText(str.getBytes());
-						str = null;
-					}
-				}
+				prefixSearch();
 			} else if(command == backCommand) {
-				if(Integer.parseInt(setting.get("input_method")) == IM_TEXTFIELD) {
-					display.setCurrent(findForm);
-				} else {
-					thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
-					display.setCurrent(thaipickboard);
-				}
+				BackFromThaiListbox();
 			}
 		}
 	} catch(Exception e) {
@@ -584,5 +556,64 @@ public class LekLekDict extends MIDlet implements CommandListener
   
   public void destroyApp(boolean con)
   {
+  }
+  
+  public void ThaiListBoxCommandActionCallBack(int cmd)
+  {
+	if(cmd == Canvas.RIGHT) {
+		System.out.println("prefix search");
+		try {
+			prefixSearch();
+		} catch (Exception ex) {
+		}
+	} else {
+		BackFromThaiListbox();
+	}
+  }
+  
+  public void ThaiDisplayCommandActionCallBack()
+  {
+	BackFromThaiDisplay();
+  }
+  
+  public void BackFromThaiDisplay()
+  {
+  	if(prevDisplay != null) {
+		if(prevDisplay == thailistbox) thailistbox.refresh();
+		display.setCurrent(prevDisplay);
+		prevDisplay = null;
+	} else {
+		if(Integer.parseInt(setting.get("input_method")) == IM_TEXTFIELD) {
+			display.setCurrent(findForm);
+		} else {
+			thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
+			display.setCurrent(thaipickboard);
+		}
+	}
+  }
+  public void BackFromThaiListbox()
+  {
+	if(Integer.parseInt(setting.get("input_method")) == IM_TEXTFIELD) {
+		display.setCurrent(findForm);
+	} else {
+		thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
+		display.setCurrent(thaipickboard);
+	}
+  }
+  protected void prefixSearch() throws Exception
+  {
+  	byte[] search = thailistbox.getSelectedEntryText();
+	if(search != null && search.length > 0) {
+		String str = directSearch(new String(search));
+		if(str == null) {
+			Alert al = new Alert("Error", "Cannot find the meaning of the search word.", null, AlertType.WARNING);
+			al.setTimeout(Alert.FOREVER);
+			display.setCurrent(al);
+		} else {
+			prevDisplay = thailistbox;
+			displayThaiText(str.getBytes());
+			str = null;
+		}
+	}
   }
 }

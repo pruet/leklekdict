@@ -1,7 +1,7 @@
 /*
  * ThaiListBox.java
  *
- * Copyright (C) 2004 Pruet Boonma <pruet@eng.cmu.ac.th>
+ * Copyright (C) 2004,2005 Pruet Boonma <pruet@eng.cmu.ac.th>
  * Copyright (C) 2002 Vuthichai Ampornaramveth <vuthi@vuthi.com>
  *
  * This program is free software; you can redistribute it and/or modify
@@ -51,11 +51,13 @@ public class ThaiListBox extends Canvas
   private int new_posi = 1;
   private int old_posi = 0;
   private boolean refresh = false;
+  private LekLekDict midlet = null;
   
 
 // Constructor
-  public ThaiListBox()
+  public ThaiListBox(LekLekDict mid)
   {
+	midlet = mid;
     try {
 		ThaiFont tf = new ThaiFont4();
 		font_offset = tf.get_font_offset();
@@ -224,7 +226,11 @@ public class ThaiListBox extends Canvas
 				new_posi++;
 			}
 		}
-    }
+    } else if(getGameAction(keyCode) == RIGHT) {
+		midlet.ThaiListBoxCommandActionCallBack(RIGHT);
+	} else if(getGameAction(keyCode) == LEFT) {
+		midlet.ThaiListBoxCommandActionCallBack(LEFT);
+	}
   	repaint();
   }
 
