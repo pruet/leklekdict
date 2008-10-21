@@ -2,7 +2,7 @@ MIDlet-1: LekLekDict, /icon.png, LekLekDict
 MIDlet-Name: LekLekDict
 MIDlet-Icon: /icon.png
 MIDlet-Vendor: ANS Wireless Co., Ltd.
-MIDlet-Version: 0.4.0
+MIDlet-Version: 0.3.4
 MIDlet-Description: Offline Dictionary for Mobile Device
 MIDlet-Info-URL: http://www.chickyclub.net/
 MicroEdition-Configuration: CLDC-1.0

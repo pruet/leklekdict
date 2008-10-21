@@ -1,4 +1,4 @@
-// $Id: LekLekDict.java,v 1.4 2008/10/21 21:20:22 pruet Exp $
+// $Id: LekLekDict.java,v 1.5 2008/10/21 21:25:22 pruet Exp $
 // Copyright (C) 2003,2004,2005 Pruet Boonma 
 // Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
@@ -397,7 +397,7 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 			String version;
 			String copyright;
 			if((version = getAppProperty("LekLekDict-Version")) == null) {
-				version = new String("0.4.0");
+				version = new String("0.3.4");
 			}
 			if((copyright = getAppProperty("Copyright")) == null) {
 				copyright = new String("(C) 2008 ANS Wireless Co., Ltd.\n(C) 2003,2004,2005 Pruet Boonma\n");
