@@ -1,4 +1,5 @@
-// Copyright (C) 2005 Pruet Boonma <pruet@eng.cmu.ac.th>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
+// Copyright (C) 2005 Pruet Boonma <pruetboonma@gmail.com>
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by

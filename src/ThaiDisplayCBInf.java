@@ -1,4 +1,6 @@
-// Copyright (C) 2005 Pruet Boonma <pruet@eng.cmu.ac.th>
+// $Id: ThaiDisplayCBInf.java,v 1.2 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2005 Pruet Boonma <pruetboonma@gmail.com>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by

@@ -1,4 +1,6 @@
-// Copyright (C) 2003,2004 Pruet Boonma <pruet@eng.cmu.ac.th>
+// $Id: Setting.java,v 1.2 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2003,2004 Pruet Boonma <pruetboonma@gmail.com>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -19,7 +21,7 @@ import javax.microedition.rms.*;
 
 /**
  *	Setting class for configuration system. It uses RMS as persistant storage.
- *	@author	Pruet Boonma <pruet@eng.cmu.ac.th>
+ *	@author	Pruet Boonma <pruetboonma@gmail.com>
  *	@version 0.4, September 2004
  */
 public class Setting

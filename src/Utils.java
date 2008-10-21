@@ -1,5 +1,7 @@
+// $Id: Utils.java,v 1.2 2008/10/21 21:20:22 pruet Exp $
 // Copyright (C) 2003 CMUD <neng@ba.cmu.ac.th>
-// Copyright (C) 2004 Pruet Boonma <pruet@eng.cmu.ac.th>
+// Copyright (C) 2004 Pruet Boonma <pruetboonma@gmail.com>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -14,15 +16,6 @@
 // You should have received a copy of the GNU General Public License
 // along with this program; if not, write to the Free Software
 // Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  US
-
-
-/**
- *  Utility class for LekLekDict.
- *  
- *  @author Pruet Boonma <pruet@eng.cmu.ac.th>
- *  @author CMUD <neng@ba.cmu.ac.th>
- *  @version 0.3, September 2004
- */
 
 import java.util.*;
 

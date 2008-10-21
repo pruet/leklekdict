@@ -1,4 +1,6 @@
-// Copyright (C) 2003,2004,2005 Pruet Boonma <pruet@eng.cmu.ac.th>
+// $Id: LekLekDict.java,v 1.4 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2003,2004,2005 Pruet Boonma 
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -16,7 +18,7 @@
 
 
 /**
- *	@author	Pruet Boonma <pruet@eng.cmu.ac.th>
+ *	@author	Pruet Boonma <pruetboonma@gmail.com>
  *	@version 0.3.2, Oct 2004
  */
 
@@ -389,6 +391,8 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 			}
 			//setting.get("input_method");
 		} else if(command == aboutCommand) {
+			InputStream is = getClass().getResourceAsStream("/about.txt");
+  			String about = new String(getLine(is, false));
 			StringBuffer sb = new StringBuffer();
 			String version;
 			String copyright;
@@ -396,12 +400,12 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 				version = new String("0.4.0");
 			}
 			if((copyright = getAppProperty("Copyright")) == null) {
-				copyright = new String("(C) 2003,2004,2005 Pruet Boonma <pruet@eng.cmu.a.cth>");
+				copyright = new String("(C) 2008 ANS Wireless Co., Ltd.\n(C) 2003,2004,2005 Pruet Boonma\n");
 			}
-			sb.append("* Lek-Lek Dictionary " + version + " Copyright " + copyright + " GPL Applied\n");
-			sb.append("* ThaiFontDisplay Copyright (C) 2002 Vuthichai Ampornaramveth <vuthi@vuthi.com>\n");
-			sb.append("* This product is created by the adaptation of LEXiTRON developed by NECTEC (http://www.nectec.or.th/)\n");
+			sb.append("* Lek-Lek Dict " + version + "\nCopyright " + copyright + " All Right Reserved. GPL Applied\n");
+			sb.append("* ThaiFontDisplay Copyright (C) 2002 Vuthichai Ampornaramveth\n");
 			prevDisplay = null;
+			sb.append(about);
 			displayThaiText(sb.toString().getBytes());
 		} else if(command == helpCommand) {
 			InputStream is = getClass().getResourceAsStream("/help.txt");

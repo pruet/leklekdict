@@ -12,7 +12,7 @@
 	<property name="resources" location="res"/>
 	
   <!-- Edit the "mpp" property with the path to your installed mpp-sdk. -->
-  <property name="mpp" value="/Developer/Java/mpp-sdk"/>
+  <property name="mpp" value="/Users/pruet/develop/mpp-sdk"/>
   <property name="mppdev" value="${mpp}"/>
 
 
@@ -53,12 +53,12 @@
             <zipgroupfileset refid="lib.jars"/>
             <fileset dir="${resources}"/>
         </jar>
-		<copy file="${ant.project.name}.jad" tofile="${jadfile}" />
+		<copy file="${ant.project.name}.jad" tofile="${jadfile}" /> 
     </target>
 
     <target name="run" depends="jar" description="Run jar file">
         <java jar="${mppdev}/player.jar" fork="yes" failonerror="true">
-		 <arg value="${dist}/${project}.jad"/>
+		 <arg value="${dist}/${ant.project.name}.jad"/>
 		</java>
     </target>
 

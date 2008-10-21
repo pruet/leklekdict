@@ -3,6 +3,7 @@ MIDlet-Jar-Size: 5629
 MIDlet-Jar-URL: LekLekDict.jar
 MIDlet-Name: LekLekDict
 MIDlet-Icon: /icon.png
-MIDlet-Vendor: Pruet Boonma
+MIDlet-Vendor: ANS Wireless Co., Ltd.
 MIDlet-Version: 0.4.0
-MIDlet-Description: LekLekDict - Offline Database for Mobile Device
+MIDlet-Description: LekLekDict - Offline Dictionary for Mobile Device
+LekLekDict-Version: 0.4.0

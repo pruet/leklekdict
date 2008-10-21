@@ -1,4 +1,6 @@
-// Copyright (C) 2003,2004 Pruet Boonma <pruet@eng.cmu.ac.th>
+//$Id: ByteArray.java,v 1.3 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2003,2004 Pruet Boonma <pruetboonma@gmail.com>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -16,7 +18,7 @@
 
 /**
  *	Byte Array processor, all method please be static.
- *	@author	Pruet Boonma <pruet@eng.cmu.ac.th>
+ *	@author	Pruet Boonma <pruetboonma@gmail.com>
  *	@version 0.6, September 2004
  */
  

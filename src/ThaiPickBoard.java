@@ -1,5 +1,6 @@
-// Copyright (C) 2004 Pruet Boonma <pruet@eng.cmu.ac.th>
-// Copyright (C) 2002 Vuthichai Ampornaramveth <vuthi@vuthi.com>
+// $Id: ThaiPickBoard.java,v 1.2 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2004,2007 Pruet Boonma <pruetboonma@gmail.com>
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -774,12 +775,12 @@ public class ThaiPickBoard extends Canvas
    */
   protected void keyPressed(int keyCode)
   {
-  	if(getKeyName(keyCode).toLowerCase().startsWith("clear")) {
+  	if(getKeyName(keyCode).toLowerCase().startsWith("clear") || getKeyName(keyCode).toLowerCase().startsWith("send") || getKeyName(keyCode).toLowerCase().startsWith("call")) {
 		backSpace();
-  	} else if(getKeyName(keyCode).toLowerCase().startsWith("abc") || getKeyName(keyCode).toLowerCase().startsWith("send") || getKeyName(keyCode).toLowerCase().startsWith("call")) { // it will work on S60 only!!
-  		switchLanguage();
-  	}
-  	switch(keyCode)
+  	} else if(getKeyName(keyCode).toLowerCase().startsWith("abc")) {
+		switchLanguage();
+	}
+	switch(keyCode)
   	{
  		case KEY_NUM1:
 			processPickBoardKey(1, 4);
@@ -815,7 +816,7 @@ public class ThaiPickBoard extends Canvas
   			processPickBoardKey(41, 44);
   			break;
   		case KEY_STAR:
-  			switchCase();
+			backSpace();
   			break;
   		default :
   			new_posi = 0;
@@ -825,6 +826,12 @@ public class ThaiPickBoard extends Canvas
 		  			break;
 		  		case RIGHT:
 		  			moveCaretForward();
+					break;
+				case UP:
+					switchCase();
+					break;
+				case DOWN:
+					switchLanguage();
 					break;
 				case FIRE:
 					spaceBar();

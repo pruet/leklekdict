@@ -1,22 +1,21 @@
-/*
- * ThaiFont4.java
- *
- * Copyright (C) 2002 Vuthichai Ampornaramveth <vuthi@vuthi.com>
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
+// $Id: ThaiFont4.java,v 1.2 2008/10/21 21:20:22 pruet Exp $
+// Copyright (C) 2002 Vuthichai Ampornaramveth
+// Copyright (C) 2008 ANS Wireless Co., Ltd.
+//
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation; either version 2 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
 
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  US
- */
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  US
+
 class ThaiFont4 implements ThaiFont {
   private static int font_offset[] = {
     0,1,4,10,18,25,33,40,43,47,51,56,63,68,73,76,82,89,94,101,108,115,122,129,0,7,14,17,21,27,34,40,47,59,67,74,82,90,97,104,112,120,123,128,136,143,151,159,0,8,16,24,31,38,46,54,66,74,82,90,94,100,104,111,118,122,129,136,143,150,157,161,0,7,10,13,20,23,31,38,45,52,59,63,69,73,80,87,95,101,107,113,118,121,126,134,0,6,14,22,30,38,46,54,62,70,78,86,94,102,110,118,126,134,137,140,145,150,155,161,168,176,184,192,200,208,216,224,0,1,8,14,21,28,35,43,48,54,62,69,76,84,92,99,106,112,120,128,136,143,150,157,0,6,14,21,28,35,42,50,58,65,72,79,85,92,98,105,111,119,127,133,140,148,154,161,0,5,12,17,25,31,37,44,50,54,59,63,63,63,63,63,70,75,83,88,94,100,105,111,0,3,9,16,21,26,30,35,41,47,53,61,68,76,84,89,97,105,111,119,0,0,0};
