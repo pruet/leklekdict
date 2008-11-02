@@ -9,7 +9,7 @@ MicroEdition-Configuration: CLDC-1.0
 MicroEdition-Profile: MIDP-1.0
 MPP-Width: 176
 MPP-Height: 208
-MPP-Scale: 1.0
+MPP-Scale: 2.0
 MPP-Antialias: false
 
 

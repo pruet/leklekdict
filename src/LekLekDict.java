@@ -1,4 +1,4 @@
-// $Id: LekLekDict.java,v 1.5 2008/10/21 21:25:22 pruet Exp $
+// $Id: LekLekDict.java,v 1.6 2008/11/02 06:28:19 pruet Exp $
 // Copyright (C) 2003,2004,2005 Pruet Boonma 
 // Copyright (C) 2008 ANS Wireless Co., Ltd.
 //
@@ -70,8 +70,8 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
   public static final int IM_PICKBOARD = 1;
 
   public static final int VIEW_TDIS = 0;
-  public static final int VIEW_TBOX = 1;
 
+  public static final int VIEW_TBOX = 1;
   public LekLekDict()
   {
   	display = Display.getDisplay(this);
@@ -84,9 +84,8 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 	StringBuffer out = new StringBuffer();
 	char ch = word.charAt(0);
 	char chx = ch;
-	int chi;
-	if(ch > 255) ch -= 3424; // what da heck -_-''' unicode in 2bytes then rip down to 1 byte?
-
+	  int chi;
+	  if(ch > 255) ch -= 3424; // what da heck -_-''' unicode in 2bytes then rip down to 1 byte?
 	int i;
 	byte[] bt;
 	byte[] searchbt;
@@ -110,6 +109,7 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 		if(chi != ch) break;
 		i = ByteArray.indexOf(bt, '|');
 		if(i == -1) break;
+		
 		if(ByteArray.equals(bt, searchbt, i)) {
 			if(!found) {
 				dataIs.skip(Integer.parseInt(new String(ByteArray.substring(bt, i + 1, bt.length))));
@@ -131,12 +131,13 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 	indexIs = null;
 	return out.toString();
   }
+	
   protected byte[][] prefixSearch(String word) throws Exception
   {
   	Vector out = new Vector();
 	char ch = word.charAt(0);
-	int chi;
-	if(ch > 255) ch -= 3424; // what da heck -_-''' unicode in 2bytes then rip down to 2 bit?
+	  int chi;
+	  if(ch > 255) ch -= 3424; // what da heck -_-''' unicode in 2bytes then rip down to 2 bit?
 	int i;
 	byte[] bt;
 	byte[] searchbt;
@@ -166,8 +167,9 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 		if(i == -1) break;
 		if(ByteArray.startsWith(bt, searchbt)) {
 			temp = new String(ByteArray.substring(bt, 0, i));
+			//temp = ByteArray.substring(bt, 0, i);
 			if(out.isEmpty() || !out.lastElement().equals(temp)) {
-			//if(!out.contains(temp)) {
+				//if(!out.contains(temp)) {
 				out.addElement(temp);
 			}
 			found = true;
@@ -187,6 +189,7 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 	String str;
 	for(i = 0; i != len; i++) {
 		outByte[i] = ((String)out.elementAt(i)).getBytes();
+		//outByte[i] = (byte [])out.elementAt(i);
 	}	
 	return outByte;
   }
@@ -243,11 +246,12 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 	submitCommand = new Command("Lookup..", Command.SCREEN, 1);
 	submitPrefixCommand = new Command("Prefix Lookup..", Command.SCREEN, 2);
 	clearCommand = new Command("Clear", Command.SCREEN, 3);
+	switchIMCommand = new Command("Switch Input", Command.SCREEN, 4);
+	switchViewCommand = new Command("Switch View", Command.SCREEN, 5);
 	aboutCommand = new Command("About", Command.SCREEN, 6);
 	setupCommand = new Command("Setup", Command.SCREEN, 7);
 	helpCommand = new Command("Help", Command.HELP, 8);
-	switchIMCommand = new Command("Switch Input", Command.SCREEN, 4);
-	switchViewCommand = new Command("Switch View", Command.SCREEN, 5);
+
 
   	// Eng->Thai From
   	findTextField = new TextField("Input search word(Th/Eng)", "", 30, TextField.ANY);
@@ -481,9 +485,9 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 		} else if(displayable == thaipickboard) {	
   			if(command == submitCommand) {
   				byte[] search = thaipickboard.getBytes();
-  				if(search != null && search.length > 0) {
+				if(search != null && search.length > 0) {
 					setting.set("input_lang", "" + thaipickboard.getActiveLanguage());
-	  				String str = directSearch(new String(search));
+	  				String str = directSearch(ByteArray.convertToString(ByteArray.convertToSaraUm(thaipickboard.getBytes())));
 					if(str == null) {
 						Alert al = new Alert("Error", "Cannot find the meaning of the search word.", null, AlertType.WARNING);
 						al.setTimeout(Alert.FOREVER);
@@ -497,7 +501,7 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 			} else if(command == submitPrefixCommand) {
   				byte[] search = thaipickboard.getBytes();
 				if(search != null && search.length > 0) {
-					byte result[][] = prefixSearch(new String(search));
+					byte result[][] = prefixSearch(ByteArray.convertToString(ByteArray.convertToSaraUm(search)));
 					setting.set("input_lang", "" + thaipickboard.getActiveLanguage());
 					if(result == null || result.length <= 0) {
 						Alert al = new Alert("Error", "Cannot find any words start with the search word .", null, AlertType.WARNING);
@@ -516,20 +520,20 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 				setting.set("keytype", Integer.toString(keyTypeChoiceGroup.getSelectedIndex()));
 				setting.set("showhint", Integer.toString(showKeyHintChoiceGroup.getSelectedIndex()));
 				setting.set("keytimeout", timeoutTextField.getString());
+				thaipickboard.setKeyboardLayout(Integer.parseInt(setting.get("keytype")));
+				thaipickboard.setShowKeyHint(Integer.parseInt(setting.get("showhint")));
+				thaipickboard.setKeyRepeatTimeout(Integer.parseInt(setting.get("keytimeout")));
+				thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
+				thaipickboard.reset();
 				if(Integer.parseInt(setting.get("input_method")) == IM_TEXTFIELD) {
 					display.setCurrent(findForm);
 				} else {
-					thaipickboard.setKeyboardLayout(Integer.parseInt(setting.get("keytype")));
-					thaipickboard.setShowKeyHint(Integer.parseInt(setting.get("showhint")));
-					thaipickboard.setKeyRepeatTimeout(Integer.parseInt(setting.get("keytimeout")));
-					thaipickboard.switchLanguage(Integer.parseInt(setting.get("input_lang")));
-					thaipickboard.reset();
 					display.setCurrent(thaipickboard);
 				}
 			}
 		} else if(displayable == thailistbox) {
 			if(command == submitCommand) {
-				prefixSearch();
+				searchFromListBox();
 			} else if(command == backCommand) {
 				BackFromThaiListbox();
 			}
@@ -565,9 +569,8 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
   public void ThaiListBoxCommandActionCallBack(int cmd)
   {
 	if(cmd == Canvas.RIGHT) {
-		System.out.println("prefix search");
 		try {
-			prefixSearch();
+			searchFromListBox();
 		} catch (Exception ex) {
 		}
 	} else {
@@ -604,12 +607,13 @@ public class LekLekDict extends MIDlet implements CommandListener, ThaiListBoxCB
 		display.setCurrent(thaipickboard);
 	}
   }
-  protected void prefixSearch() throws Exception
+  protected void searchFromListBox() throws Exception
   {
-  	byte[] search = thailistbox.getSelectedEntryText();
-	if(search != null && search.length > 0) {
-		String str = directSearch(new String(search));
-		if(str == null) {
+	  byte[] search_orig = thailistbox.getSelectedEntryText();
+	  byte[] search = ByteArray.substring(search_orig, 0, search_orig.length);
+	  if(search != null && search.length > 0) {
+		  String str = directSearch(ByteArray.convertToString(ByteArray.convertToSaraUm(search)));
+		  if(str == null) {
 			Alert al = new Alert("Error", "Cannot find the meaning of the search word.", null, AlertType.WARNING);
 			al.setTimeout(Alert.FOREVER);
 			display.setCurrent(al);
